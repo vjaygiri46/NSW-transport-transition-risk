@@ -1,0 +1,29 @@
+left,right,n_overlap,spearman_rho,source,note
+bev_fcev_share_nsw,hybrid_share_nsw,5,0.9999999999999999,historical_overlap,5 overlapping annual observations.
+bev_fcev_share_nsw,petrol_share_nsw,5,-0.9999999999999999,historical_overlap,5 overlapping annual observations.
+bev_fcev_share_nsw,diesel_share_nsw,5,0.9999999999999999,historical_overlap,5 overlapping annual observations.
+bev_fcev_share_nsw,renewable_share_nsw,5,0.9999999999999999,historical_overlap,5 overlapping annual observations.
+bev_fcev_share_nsw,road_energy_use_national,4,,insufficient_overlap,4 overlapping annual observations; do not estimate directly.
+bev_fcev_share_nsw,road_direct_emissions_national,4,,insufficient_overlap,4 overlapping annual observations; do not estimate directly.
+bev_fcev_share_nsw,sydney_passenger_activity,4,,insufficient_overlap,4 overlapping annual observations; do not estimate directly.
+hybrid_share_nsw,petrol_share_nsw,5,-0.9999999999999999,historical_overlap,5 overlapping annual observations.
+hybrid_share_nsw,diesel_share_nsw,5,0.9999999999999999,historical_overlap,5 overlapping annual observations.
+hybrid_share_nsw,renewable_share_nsw,5,0.9999999999999999,historical_overlap,5 overlapping annual observations.
+hybrid_share_nsw,road_energy_use_national,4,,insufficient_overlap,4 overlapping annual observations; do not estimate directly.
+hybrid_share_nsw,road_direct_emissions_national,4,,insufficient_overlap,4 overlapping annual observations; do not estimate directly.
+hybrid_share_nsw,sydney_passenger_activity,4,,insufficient_overlap,4 overlapping annual observations; do not estimate directly.
+petrol_share_nsw,diesel_share_nsw,16,-1.0,historical_overlap,16 overlapping annual observations.
+petrol_share_nsw,renewable_share_nsw,11,-0.990909090909091,historical_overlap,11 overlapping annual observations.
+petrol_share_nsw,road_energy_use_national,15,-0.8714285714285712,historical_overlap,15 overlapping annual observations.
+petrol_share_nsw,road_direct_emissions_national,15,-0.907142857142857,historical_overlap,15 overlapping annual observations.
+petrol_share_nsw,sydney_passenger_activity,15,-0.0964285714285714,historical_overlap,15 overlapping annual observations.
+diesel_share_nsw,renewable_share_nsw,11,0.990909090909091,historical_overlap,11 overlapping annual observations.
+diesel_share_nsw,road_energy_use_national,15,0.8714285714285712,historical_overlap,15 overlapping annual observations.
+diesel_share_nsw,road_direct_emissions_national,15,0.907142857142857,historical_overlap,15 overlapping annual observations.
+diesel_share_nsw,sydney_passenger_activity,15,0.0964285714285714,historical_overlap,15 overlapping annual observations.
+renewable_share_nsw,road_energy_use_national,10,0.5393939393939393,historical_overlap,10 overlapping annual observations.
+renewable_share_nsw,road_direct_emissions_national,10,0.6484848484848483,historical_overlap,10 overlapping annual observations.
+renewable_share_nsw,sydney_passenger_activity,10,-0.406060606060606,historical_overlap,10 overlapping annual observations.
+road_energy_use_national,road_direct_emissions_national,36,0.9989703989703991,historical_overlap,36 overlapping annual observations.
+road_energy_use_national,sydney_passenger_activity,49,0.9699999999999999,historical_overlap,49 overlapping annual observations.
+road_direct_emissions_national,sydney_passenger_activity,36,0.9155727155727155,historical_overlap,36 overlapping annual observations.

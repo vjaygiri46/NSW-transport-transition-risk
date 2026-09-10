@@ -1,0 +1,295 @@
+period,mode,mode_slug,value,unit
+1976-77,Passenger cars,passenger_cars,24.134343563413484,billion passenger-km
+1976-77,Commercial vehicles,commercial_vehicles,2.015035707828529,billion passenger-km
+1976-77,Heavy rail,heavy_rail,3.3756505737684597,billion passenger-km
+1976-77,Light rail,light_rail,0.0,billion passenger-km
+1976-77,Bus,bus,1.530233487976393,billion passenger-km
+1976-77,Total,total,31.395487003890796,billion passenger-km
+1977-78,Passenger cars,passenger_cars,24.798296655671756,billion passenger-km
+1977-78,Commercial vehicles,commercial_vehicles,2.1019663416333056,billion passenger-km
+1977-78,Heavy rail,heavy_rail,3.3706688853763445,billion passenger-km
+1977-78,Light rail,light_rail,0.0,billion passenger-km
+1977-78,Bus,bus,1.5650518194998833,billion passenger-km
+1977-78,Total,total,32.18678003859182,billion passenger-km
+1978-79,Passenger cars,passenger_cars,25.586621202475158,billion passenger-km
+1978-79,Commercial vehicles,commercial_vehicles,2.151812330401308,billion passenger-km
+1978-79,Heavy rail,heavy_rail,3.397015000077285,billion passenger-km
+1978-79,Light rail,light_rail,0.0,billion passenger-km
+1978-79,Bus,bus,1.5447185045589586,billion passenger-km
+1978-79,Total,total,33.04170756586995,billion passenger-km
+1979-80,Passenger cars,passenger_cars,25.794722036968718,billion passenger-km
+1979-80,Commercial vehicles,commercial_vehicles,2.134754269788706,billion passenger-km
+1979-80,Heavy rail,heavy_rail,3.5869317978921913,billion passenger-km
+1979-80,Light rail,light_rail,0.0,billion passenger-km
+1979-80,Bus,bus,1.5818760127869194,billion passenger-km
+1979-80,Total,total,33.492405493182645,billion passenger-km
+1980-81,Passenger cars,passenger_cars,26.154420243180667,billion passenger-km
+1980-81,Commercial vehicles,commercial_vehicles,2.176922722636476,billion passenger-km
+1980-81,Heavy rail,heavy_rail,3.67396085,billion passenger-km
+1980-81,Light rail,light_rail,0.0,billion passenger-km
+1980-81,Bus,bus,1.6187535567642353,billion passenger-km
+1980-81,Total,total,34.03860612172856,billion passenger-km
+1981-82,Passenger cars,passenger_cars,27.165513316927953,billion passenger-km
+1981-82,Commercial vehicles,commercial_vehicles,2.260924419896573,billion passenger-km
+1981-82,Heavy rail,heavy_rail,3.77244,billion passenger-km
+1981-82,Light rail,light_rail,0.0,billion passenger-km
+1981-82,Bus,bus,1.631134021615273,billion passenger-km
+1981-82,Total,total,35.294711484688634,billion passenger-km
+1982-83,Passenger cars,passenger_cars,26.969962020645568,billion passenger-km
+1982-83,Commercial vehicles,commercial_vehicles,2.223863376928824,billion passenger-km
+1982-83,Heavy rail,heavy_rail,3.5381959725,billion passenger-km
+1982-83,Light rail,light_rail,0.0,billion passenger-km
+1982-83,Bus,bus,1.6775589615222721,billion passenger-km
+1982-83,Total,total,34.88396842618136,billion passenger-km
+1983-84,Passenger cars,passenger_cars,28.336317639606033,billion passenger-km
+1983-84,Commercial vehicles,commercial_vehicles,2.372697598208372,billion passenger-km
+1983-84,Heavy rail,heavy_rail,3.4496077874999997,billion passenger-km
+1983-84,Light rail,light_rail,0.0,billion passenger-km
+1983-84,Bus,bus,1.7053692608393778,billion passenger-km
+1983-84,Total,total,36.35211224980698,billion passenger-km
+1984-85,Passenger cars,passenger_cars,29.650766741025382,billion passenger-km
+1984-85,Commercial vehicles,commercial_vehicles,2.4730663027171036,billion passenger-km
+1984-85,Heavy rail,heavy_rail,3.4195207199999995,billion passenger-km
+1984-85,Light rail,light_rail,0.0,billion passenger-km
+1984-85,Bus,bus,1.7716183786690594,billion passenger-km
+1984-85,Total,total,37.812188623572176,billion passenger-km
+1985-86,Passenger cars,passenger_cars,30.514759619032287,billion passenger-km
+1985-86,Commercial vehicles,commercial_vehicles,2.5361442565519416,billion passenger-km
+1985-86,Heavy rail,heavy_rail,3.6716507774999996,billion passenger-km
+1985-86,Light rail,light_rail,0.0,billion passenger-km
+1985-86,Bus,bus,1.819042732357422,billion passenger-km
+1985-86,Total,total,39.011851321575776,billion passenger-km
+1986-87,Passenger cars,passenger_cars,31.200910103347095,billion passenger-km
+1986-87,Commercial vehicles,commercial_vehicles,2.5586787800539583,billion passenger-km
+1986-87,Heavy rail,heavy_rail,3.7462763052,billion passenger-km
+1986-87,Light rail,light_rail,0.0,billion passenger-km
+1986-87,Bus,bus,1.888503616626627,billion passenger-km
+1986-87,Total,total,39.856330992874405,billion passenger-km
+1987-88,Passenger cars,passenger_cars,32.591653667007094,billion passenger-km
+1987-88,Commercial vehicles,commercial_vehicles,2.6279659253588776,billion passenger-km
+1987-88,Heavy rail,heavy_rail,4.060127212499999,billion passenger-km
+1987-88,Light rail,light_rail,0.0,billion passenger-km
+1987-88,Bus,bus,1.9588998653338325,billion passenger-km
+1987-88,Total,total,41.65664251150093,billion passenger-km
+1988-89,Passenger cars,passenger_cars,33.83493755681875,billion passenger-km
+1988-89,Commercial vehicles,commercial_vehicles,2.6761261010651127,billion passenger-km
+1988-89,Heavy rail,heavy_rail,4.1051084489519996,billion passenger-km
+1988-89,Light rail,light_rail,0.012520000000000002,billion passenger-km
+1988-89,Bus,bus,1.9470723952432412,billion passenger-km
+1988-89,Total,total,43.012907385124585,billion passenger-km
+1989-90,Passenger cars,passenger_cars,34.702173434009005,billion passenger-km
+1989-90,Commercial vehicles,commercial_vehicles,2.629543140012329,billion passenger-km
+1989-90,Heavy rail,heavy_rail,4.211946215295,billion passenger-km
+1989-90,Light rail,light_rail,0.012330000000000002,billion passenger-km
+1989-90,Bus,bus,1.9003261356252539,billion passenger-km
+1989-90,Total,total,43.87500027602622,billion passenger-km
+1990-91,Passenger cars,passenger_cars,34.687172414832844,billion passenger-km
+1990-91,Commercial vehicles,commercial_vehicles,2.469283196696284,billion passenger-km
+1990-91,Heavy rail,heavy_rail,4.284940700955349,billion passenger-km
+1990-91,Light rail,light_rail,0.01213,billion passenger-km
+1990-91,Bus,bus,1.9471579546801328,billion passenger-km
+1990-91,Total,total,43.756662146171834,billion passenger-km
+1991-92,Passenger cars,passenger_cars,35.28798433901867,billion passenger-km
+1991-92,Commercial vehicles,commercial_vehicles,2.471319887005249,billion passenger-km
+1991-92,Heavy rail,heavy_rail,4.190514990892349,billion passenger-km
+1991-92,Light rail,light_rail,0.012119999999999999,billion passenger-km
+1991-92,Bus,bus,1.9319602478197992,billion passenger-km
+1991-92,Total,total,44.2265676843016,billion passenger-km
+1992-93,Passenger cars,passenger_cars,36.35065834331896,billion passenger-km
+1992-93,Commercial vehicles,commercial_vehicles,2.5122640879339473,billion passenger-km
+1992-93,Heavy rail,heavy_rail,4.035260918580649,billion passenger-km
+1992-93,Light rail,light_rail,0.012119999999999999,billion passenger-km
+1992-93,Bus,bus,1.9074490232210992,billion passenger-km
+1992-93,Total,total,45.12931630960653,billion passenger-km
+1993-94,Passenger cars,passenger_cars,37.19635657421209,billion passenger-km
+1993-94,Commercial vehicles,commercial_vehicles,2.60101998624218,billion passenger-km
+1993-94,Heavy rail,heavy_rail,4.141948341415298,billion passenger-km
+1993-94,Light rail,light_rail,0.01211,billion passenger-km
+1993-94,Bus,bus,1.8978176582891633,billion passenger-km
+1993-94,Total,total,46.15931753278534,billion passenger-km
+1994-95,Passenger cars,passenger_cars,38.25988813740259,billion passenger-km
+1994-95,Commercial vehicles,commercial_vehicles,2.7758058591330186,billion passenger-km
+1994-95,Heavy rail,heavy_rail,4.4179588790353455,billion passenger-km
+1994-95,Light rail,light_rail,0.0121,billion passenger-km
+1994-95,Bus,bus,1.9216900831212618,billion passenger-km
+1994-95,Total,total,47.701246259208595,billion passenger-km
+1995-96,Passenger cars,passenger_cars,38.48317638039482,billion passenger-km
+1995-96,Commercial vehicles,commercial_vehicles,2.913643762932422,billion passenger-km
+1995-96,Heavy rail,heavy_rail,4.525506364418455,billion passenger-km
+1995-96,Light rail,light_rail,0.012819999999999998,billion passenger-km
+1995-96,Bus,bus,1.979347850980032,billion passenger-km
+1995-96,Total,total,48.221409240752635,billion passenger-km
+1996-97,Passenger cars,passenger_cars,38.43477828496751,billion passenger-km
+1996-97,Commercial vehicles,commercial_vehicles,2.9718709842654083,billion passenger-km
+1996-97,Heavy rail,heavy_rail,4.667338590300672,billion passenger-km
+1996-97,Light rail,light_rail,0.01295,billion passenger-km
+1996-97,Bus,bus,2.0218119685548808,billion passenger-km
+1996-97,Total,total,48.41703513571741,billion passenger-km
+1997-98,Passenger cars,passenger_cars,38.98619636766139,billion passenger-km
+1997-98,Commercial vehicles,commercial_vehicles,3.0892652056029406,billion passenger-km
+1997-98,Heavy rail,heavy_rail,4.704935135999631,billion passenger-km
+1997-98,Light rail,light_rail,0.012500000000000002,billion passenger-km
+1997-98,Bus,bus,2.0505106606303145,billion passenger-km
+1997-98,Total,total,49.13894073732628,billion passenger-km
+1998-99,Passenger cars,passenger_cars,39.934585379723714,billion passenger-km
+1998-99,Commercial vehicles,commercial_vehicles,3.194046841761574,billion passenger-km
+1998-99,Heavy rail,heavy_rail,4.7806602455665175,billion passenger-km
+1998-99,Light rail,light_rail,0.01503,billion passenger-km
+1998-99,Bus,bus,2.0711287681688226,billion passenger-km
+1998-99,Total,total,50.282027398694204,billion passenger-km
+1999-00,Passenger cars,passenger_cars,40.939913320729524,billion passenger-km
+1999-00,Commercial vehicles,commercial_vehicles,3.2710810172687697,billion passenger-km
+1999-00,Heavy rail,heavy_rail,4.949862497999999,billion passenger-km
+1999-00,Light rail,light_rail,0.01778,billion passenger-km
+1999-00,Bus,bus,2.0526331713278343,billion passenger-km
+1999-00,Total,total,51.51669397082378,billion passenger-km
+2000-01,Passenger cars,passenger_cars,40.679656200919055,billion passenger-km
+2000-01,Commercial vehicles,commercial_vehicles,3.324830726550078,billion passenger-km
+2000-01,Heavy rail,heavy_rail,5.327935572959999,billion passenger-km
+2000-01,Light rail,light_rail,0.02076,billion passenger-km
+2000-01,Bus,bus,2.028551573544787,billion passenger-km
+2000-01,Total,total,51.6831964467495,billion passenger-km
+2001-02,Passenger cars,passenger_cars,41.5229435053235,billion passenger-km
+2001-02,Commercial vehicles,commercial_vehicles,3.3959007329568163,billion passenger-km
+2001-02,Heavy rail,heavy_rail,4.9569576,billion passenger-km
+2001-02,Light rail,light_rail,0.019640000000000005,billion passenger-km
+2001-02,Bus,bus,1.935640237791152,billion passenger-km
+2001-02,Total,total,52.129259237518795,billion passenger-km
+2002-03,Passenger cars,passenger_cars,42.18334674679807,billion passenger-km
+2002-03,Commercial vehicles,commercial_vehicles,3.4828055583612603,billion passenger-km
+2002-03,Heavy rail,heavy_rail,4.970138599999999,billion passenger-km
+2002-03,Light rail,light_rail,0.01931,billion passenger-km
+2002-03,Bus,bus,1.9199686807874723,billion passenger-km
+2002-03,Total,total,52.86662559543749,billion passenger-km
+2003-04,Passenger cars,passenger_cars,44.27716353437157,billion passenger-km
+2003-04,Commercial vehicles,commercial_vehicles,3.5667033638586263,billion passenger-km
+2003-04,Heavy rail,heavy_rail,5.0218875,billion passenger-km
+2003-04,Light rail,light_rail,0.01554,billion passenger-km
+2003-04,Bus,bus,1.8964050323701658,billion passenger-km
+2003-04,Total,total,55.08006278460197,billion passenger-km
+2004-05,Passenger cars,passenger_cars,44.5538889170298,billion passenger-km
+2004-05,Commercial vehicles,commercial_vehicles,3.559521028754413,billion passenger-km
+2004-05,Heavy rail,heavy_rail,5.0594754,billion passenger-km
+2004-05,Light rail,light_rail,0.02,billion passenger-km
+2004-05,Bus,bus,1.8909651788315178,billion passenger-km
+2004-05,Total,total,55.39864717898156,billion passenger-km
+2005-06,Passenger cars,passenger_cars,43.699343822531894,billion passenger-km
+2005-06,Commercial vehicles,commercial_vehicles,3.5938727469383513,billion passenger-km
+2005-06,Heavy rail,heavy_rail,5.1767618,billion passenger-km
+2005-06,Light rail,light_rail,0.020000000000000004,billion passenger-km
+2005-06,Bus,bus,1.889300067437907,billion passenger-km
+2005-06,Total,total,54.708121841368126,billion passenger-km
+2006-07,Passenger cars,passenger_cars,43.98785527685393,billion passenger-km
+2006-07,Commercial vehicles,commercial_vehicles,3.7099782555695127,billion passenger-km
+2006-07,Heavy rail,heavy_rail,5.3480756,billion passenger-km
+2006-07,Light rail,light_rail,0.022084999999999997,billion passenger-km
+2006-07,Bus,bus,1.9295228095182884,billion passenger-km
+2006-07,Total,total,55.35005300768601,billion passenger-km
+2007-08,Passenger cars,passenger_cars,44.25585909488597,billion passenger-km
+2007-08,Commercial vehicles,commercial_vehicles,3.887126483108266,billion passenger-km
+2007-08,Heavy rail,heavy_rail,5.6406759836,billion passenger-km
+2007-08,Light rail,light_rail,0.021525000000000002,billion passenger-km
+2007-08,Bus,bus,2.000669492170361,billion passenger-km
+2007-08,Total,total,56.18280956433274,billion passenger-km
+2008-09,Passenger cars,passenger_cars,44.2001365238293,billion passenger-km
+2008-09,Commercial vehicles,commercial_vehicles,3.977993410248591,billion passenger-km
+2008-09,Heavy rail,heavy_rail,5.615635200000001,billion passenger-km
+2008-09,Light rail,light_rail,0.020906666666666667,billion passenger-km
+2008-09,Bus,bus,1.9847493322623477,billion passenger-km
+2008-09,Total,total,56.21042802183649,billion passenger-km
+2009-10,Passenger cars,passenger_cars,44.621560328417566,billion passenger-km
+2009-10,Commercial vehicles,commercial_vehicles,4.174181890387575,billion passenger-km
+2009-10,Heavy rail,heavy_rail,5.4510736,billion passenger-km
+2009-10,Light rail,light_rail,0.020300000000000002,billion passenger-km
+2009-10,Bus,bus,1.9542063753843573,billion passenger-km
+2009-10,Total,total,56.66097734559919,billion passenger-km
+2010-11,Passenger cars,passenger_cars,45.41225717110804,billion passenger-km
+2010-11,Commercial vehicles,commercial_vehicles,4.290134051840986,billion passenger-km
+2010-11,Heavy rail,heavy_rail,5.462578799999999,billion passenger-km
+2010-11,Light rail,light_rail,0.019389000000000003,billion passenger-km
+2010-11,Bus,bus,2.0179597672971314,billion passenger-km
+2010-11,Total,total,57.64024478913224,billion passenger-km
+2011-12,Passenger cars,passenger_cars,45.660385449644075,billion passenger-km
+2011-12,Commercial vehicles,commercial_vehicles,4.3963073022675365,billion passenger-km
+2011-12,Heavy rail,heavy_rail,5.664948170515883,billion passenger-km
+2011-12,Light rail,light_rail,0.02006,billion passenger-km
+2011-12,Bus,bus,2.052310851947209,billion passenger-km
+2011-12,Total,total,58.231393548712816,billion passenger-km
+2012-13,Passenger cars,passenger_cars,46.65786410749348,billion passenger-km
+2012-13,Commercial vehicles,commercial_vehicles,4.518564909229994,billion passenger-km
+2012-13,Heavy rail,heavy_rail,5.6827710194363314,billion passenger-km
+2012-13,Light rail,light_rail,0.01921,billion passenger-km
+2012-13,Bus,bus,2.059013927570529,billion passenger-km
+2012-13,Total,total,59.38885918953695,billion passenger-km
+2013-14,Passenger cars,passenger_cars,47.27970152829015,billion passenger-km
+2013-14,Commercial vehicles,commercial_vehicles,4.598438506680888,billion passenger-km
+2013-14,Heavy rail,heavy_rail,5.812558995453747,billion passenger-km
+2013-14,Light rail,light_rail,0.014039999999999999,billion passenger-km
+2013-14,Bus,bus,2.072590586079486,billion passenger-km
+2013-14,Total,total,60.244974568637005,billion passenger-km
+2014-15,Passenger cars,passenger_cars,47.86173840923422,billion passenger-km
+2014-15,Commercial vehicles,commercial_vehicles,4.677277647076521,billion passenger-km
+2014-15,Heavy rail,heavy_rail,6.055152670708318,billion passenger-km
+2014-15,Light rail,light_rail,0.024437749999999998,billion passenger-km
+2014-15,Bus,bus,2.0707056733469447,billion passenger-km
+2014-15,Total,total,61.149326025312135,billion passenger-km
+2015-16,Passenger cars,passenger_cars,48.25806334781428,billion passenger-km
+2015-16,Commercial vehicles,commercial_vehicles,4.772569233257039,billion passenger-km
+2015-16,Heavy rail,heavy_rail,6.335012627999999,billion passenger-km
+2015-16,Light rail,light_rail,0.038912,billion passenger-km
+2015-16,Bus,bus,2.0917839557941402,billion passenger-km
+2015-16,Total,total,61.975277579403276,billion passenger-km
+2016-17,Passenger cars,passenger_cars,48.63728777856685,billion passenger-km
+2016-17,Commercial vehicles,commercial_vehicles,4.988558643111218,billion passenger-km
+2016-17,Heavy rail,heavy_rail,6.769457799999999,billion passenger-km
+2016-17,Light rail,light_rail,0.040192,billion passenger-km
+2016-17,Bus,bus,2.1590794651841163,billion passenger-km
+2016-17,Total,total,63.086802632029666,billion passenger-km
+2017-18,Passenger cars,passenger_cars,48.84997969892409,billion passenger-km
+2017-18,Commercial vehicles,commercial_vehicles,5.198540167218116,billion passenger-km
+2017-18,Heavy rail,heavy_rail,7.176538504519999,billion passenger-km
+2017-18,Light rail,light_rail,0.041039400000000004,billion passenger-km
+2017-18,Bus,bus,2.338813751599444,billion passenger-km
+2017-18,Total,total,64.10156541324018,billion passenger-km
+2018-19,Passenger cars,passenger_cars,48.55640459240903,billion passenger-km
+2018-19,Commercial vehicles,commercial_vehicles,5.244537610714906,billion passenger-km
+2018-19,Heavy rail,heavy_rail,7.536806860463057,billion passenger-km
+2018-19,Light rail,light_rail,0.0428,billion passenger-km
+2018-19,Bus,bus,2.5670639488777396,billion passenger-km
+2018-19,Total,total,64.44305071914013,billion passenger-km
+2019-20,Passenger cars,passenger_cars,43.92869072935511,billion passenger-km
+2019-20,Commercial vehicles,commercial_vehicles,5.122694438274154,billion passenger-km
+2019-20,Heavy rail,heavy_rail,6.1311336534,billion passenger-km
+2019-20,Light rail,light_rail,0.053424,billion passenger-km
+2019-20,Bus,bus,2.0428663125,billion passenger-km
+2019-20,Total,total,57.68716061133137,billion passenger-km
+2020-21,Passenger cars,passenger_cars,45.219184577625384,billion passenger-km
+2020-21,Commercial vehicles,commercial_vehicles,5.211734727774318,billion passenger-km
+2020-21,Heavy rail,heavy_rail,4.079417592249999,billion passenger-km
+2020-21,Light rail,light_rail,0.074932,billion passenger-km
+2020-21,Bus,bus,1.418304177068145,billion passenger-km
+2020-21,Total,total,56.36530702469307,billion passenger-km
+2021-22,Passenger cars,passenger_cars,39.94762982528588,billion passenger-km
+2021-22,Commercial vehicles,commercial_vehicles,5.245230482370656,billion passenger-km
+2021-22,Heavy rail,heavy_rail,2.9616822266025107,billion passenger-km
+2021-22,Light rail,light_rail,0.0653375667557225,billion passenger-km
+2021-22,Bus,bus,1.0728371631007478,billion passenger-km
+2021-22,Total,total,49.65862170926528,billion passenger-km
+2022-23,Passenger cars,passenger_cars,46.03174581919703,billion passenger-km
+2022-23,Commercial vehicles,commercial_vehicles,5.384982124517103,billion passenger-km
+2022-23,Heavy rail,heavy_rail,5.17986437559646,billion passenger-km
+2022-23,Light rail,light_rail,0.14351220622225036,billion passenger-km
+2022-23,Bus,bus,1.8137273827284977,billion passenger-km
+2022-23,Total,total,59.00056684292202,billion passenger-km
+2023-24,Passenger cars,passenger_cars,47.299484981082486,billion passenger-km
+2023-24,Commercial vehicles,commercial_vehicles,5.506302362862369,billion passenger-km
+2023-24,Heavy rail,heavy_rail,6.019031713114341,billion passenger-km
+2023-24,Light rail,light_rail,0.17966887204858129,billion passenger-km
+2023-24,Bus,bus,2.127671296221615,billion passenger-km
+2023-24,Total,total,61.6181117235829,billion passenger-km
+2024-25,Passenger cars,passenger_cars,48.01316057553487,billion passenger-km
+2024-25,Commercial vehicles,commercial_vehicles,5.571113193098279,billion passenger-km
+2024-25,Heavy rail,heavy_rail,6.2033052450603865,billion passenger-km
+2024-25,Light rail,light_rail,0.18776502744611767,billion passenger-km
+2024-25,Bus,bus,2.1709004457038614,billion passenger-km
+2024-25,Total,total,62.63260744750077,billion passenger-km

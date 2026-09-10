@@ -1,0 +1,139 @@
+period,topic,variable,measure,value,unit
+1989-90,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,55.53601174485314,Mt CO2-e
+1990-91,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,54.49166814673242,Mt CO2-e
+1991-92,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,55.20061790472282,Mt CO2-e
+1992-93,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,56.944565608810954,Mt CO2-e
+1993-94,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,58.51020931577841,Mt CO2-e
+1994-95,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,60.81288681352473,Mt CO2-e
+1995-96,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,62.27354238393973,Mt CO2-e
+1996-97,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,63.31048932536995,Mt CO2-e
+1997-98,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,64.360096736337,Mt CO2-e
+1998-99,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,65.52822430914695,Mt CO2-e
+1999-00,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,66.77678840558514,Mt CO2-e
+2000-01,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,66.29810292229268,Mt CO2-e
+2001-02,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,68.1352145537086,Mt CO2-e
+2002-03,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,69.90522072174078,Mt CO2-e
+2003-04,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,72.77817156103647,Mt CO2-e
+2004-05,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,73.15124047657848,Mt CO2-e
+2005-06,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,72.75941907172164,Mt CO2-e
+2006-07,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,74.0938509710823,Mt CO2-e
+2007-08,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,75.11671787994679,Mt CO2-e
+2008-09,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,74.83849092730338,Mt CO2-e
+2009-10,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,75.7673748560651,Mt CO2-e
+2010-11,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,75.39890729999998,Mt CO2-e
+2011-12,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,76.28638620000001,Mt CO2-e
+2012-13,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,76.53507710000001,Mt CO2-e
+2013-14,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,77.4211276,Mt CO2-e
+2014-15,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,76.9312817,Mt CO2-e
+2015-16,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,79.4136865,Mt CO2-e
+2016-17,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,79.76007110000002,Mt CO2-e
+2017-18,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,82.85182760000002,Mt CO2-e
+2018-19,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,82.65773380000002,Mt CO2-e
+2019-20,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,80.54017730000001,Mt CO2-e
+2020-21,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,79.99710720000002,Mt CO2-e
+2021-22,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,79.55240160000001,Mt CO2-e
+2022-23,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,84.0302023,Mt CO2-e
+2023-24,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,85.2588682,Mt CO2-e
+2024-25,road_direct_ghg_by_vehicle_type,Total road,direct_ghg_emissions,85.42444710000001,Mt CO2-e
+1989-90,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,69.41743309164849,Mt CO2-e
+1990-91,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,68.12432094177713,Mt CO2-e
+1991-92,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,69.02020261024008,Mt CO2-e
+1992-93,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,71.21170861284824,Mt CO2-e
+1993-94,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,73.183838622198,Mt CO2-e
+1994-95,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,76.08867128656526,Mt CO2-e
+1995-96,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,77.92627050947121,Mt CO2-e
+1996-97,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,79.2352834980198,Mt CO2-e
+1997-98,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,80.56011097851027,Mt CO2-e
+1998-99,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,82.02262996461776,Mt CO2-e
+1999-00,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,83.59301204969914,Mt CO2-e
+2000-01,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,83.0048024062404,Mt CO2-e
+2001-02,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,85.32214267112393,Mt CO2-e
+2002-03,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,87.52528366421768,Mt CO2-e
+2003-04,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,91.07827431744533,Mt CO2-e
+2004-05,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,91.53383131936451,Mt CO2-e
+2005-06,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,91.1017283789719,Mt CO2-e
+2006-07,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,92.84069502354478,Mt CO2-e
+2007-08,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,94.18803011370844,Mt CO2-e
+2008-09,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,93.90211719953209,Mt CO2-e
+2009-10,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,95.10104847547365,Mt CO2-e
+2010-11,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,95.17898,Mt CO2-e
+2011-12,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,95.98341,Mt CO2-e
+2012-13,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,96.13215,Mt CO2-e
+2013-14,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,97.34501,Mt CO2-e
+2014-15,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,96.60077,Mt CO2-e
+2015-16,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,99.70753,Mt CO2-e
+2016-17,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,99.94992,Mt CO2-e
+2017-18,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,103.65301,Mt CO2-e
+2018-19,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,103.39402,Mt CO2-e
+2019-20,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,101.0148,Mt CO2-e
+2020-21,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,100.27794,Mt CO2-e
+2021-22,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,99.70368,Mt CO2-e
+2022-23,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,105.39922,Mt CO2-e
+2023-24,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,107.13606,Mt CO2-e
+2024-25,transport_full_fuel_cycle_ghg_by_mode,Road vehicles,full_fuel_cycle_ghg_emissions,107.51453,Mt CO2-e
+1974-75,road_energy_use_by_vehicle_type,Total road,energy_use,483.7019749643889,PJ
+1975-76,road_energy_use_by_vehicle_type,Total road,energy_use,506.0435905458742,PJ
+1976-77,road_energy_use_by_vehicle_type,Total road,energy_use,535.6390625602373,PJ
+1977-78,road_energy_use_by_vehicle_type,Total road,energy_use,558.224018298193,PJ
+1978-79,road_energy_use_by_vehicle_type,Total road,energy_use,584.3190010146926,PJ
+1979-80,road_energy_use_by_vehicle_type,Total road,energy_use,594.7825723141519,PJ
+1980-81,road_energy_use_by_vehicle_type,Total road,energy_use,607.4137920390942,PJ
+1981-82,road_energy_use_by_vehicle_type,Total road,energy_use,636.1047054047083,PJ
+1982-83,road_energy_use_by_vehicle_type,Total road,energy_use,629.0319264654797,PJ
+1983-84,road_energy_use_by_vehicle_type,Total road,energy_use,658.5894094564308,PJ
+1984-85,road_energy_use_by_vehicle_type,Total road,energy_use,684.1231847760649,PJ
+1985-86,road_energy_use_by_vehicle_type,Total road,energy_use,700.904435049672,PJ
+1986-87,road_energy_use_by_vehicle_type,Total road,energy_use,713.8474987773952,PJ
+1987-88,road_energy_use_by_vehicle_type,Total road,energy_use,750.4484792863632,PJ
+1988-89,road_energy_use_by_vehicle_type,Total road,energy_use,779.8039610637859,PJ
+1989-90,road_energy_use_by_vehicle_type,Total road,energy_use,798.4494797250604,PJ
+1990-91,road_energy_use_by_vehicle_type,Total road,energy_use,782.9145979426993,PJ
+1991-92,road_energy_use_by_vehicle_type,Total road,energy_use,792.5002632880206,PJ
+1992-93,road_energy_use_by_vehicle_type,Total road,energy_use,816.9322574572068,PJ
+1993-94,road_energy_use_by_vehicle_type,Total road,energy_use,838.8623857043335,PJ
+1994-95,road_energy_use_by_vehicle_type,Total road,energy_use,871.5828164921502,PJ
+1995-96,road_energy_use_by_vehicle_type,Total road,energy_use,891.862709280199,PJ
+1996-97,road_energy_use_by_vehicle_type,Total road,energy_use,906.3289855529758,PJ
+1997-98,road_energy_use_by_vehicle_type,Total road,energy_use,921.0244644927565,PJ
+1998-99,road_energy_use_by_vehicle_type,Total road,energy_use,937.1800684451819,PJ
+1999-00,road_energy_use_by_vehicle_type,Total road,energy_use,954.7705533453949,PJ
+2000-01,road_energy_use_by_vehicle_type,Total road,energy_use,947.8164485663074,PJ
+2001-02,road_energy_use_by_vehicle_type,Total road,energy_use,974.7005619567292,PJ
+2002-03,road_energy_use_by_vehicle_type,Total road,energy_use,1000.1859898518778,PJ
+2003-04,road_energy_use_by_vehicle_type,Total road,energy_use,1040.8249764567859,PJ
+2004-05,road_energy_use_by_vehicle_type,Total road,energy_use,1046.994890127361,PJ
+2005-06,road_energy_use_by_vehicle_type,Total road,energy_use,1044.1732655570186,PJ
+2006-07,road_energy_use_by_vehicle_type,Total road,energy_use,1066.2394808899794,PJ
+2007-08,road_energy_use_by_vehicle_type,Total road,energy_use,1083.7890524925194,PJ
+2008-09,road_energy_use_by_vehicle_type,Total road,energy_use,1082.3416276464081,PJ
+2009-10,road_energy_use_by_vehicle_type,Total road,energy_use,1097.387274083233,PJ
+2010-11,road_energy_use_by_vehicle_type,Total road,energy_use,1117.1884083314721,PJ
+2011-12,road_energy_use_by_vehicle_type,Total road,energy_use,1124.6761699901201,PJ
+2012-13,road_energy_use_by_vehicle_type,Total road,energy_use,1125.414888810762,PJ
+2013-14,road_energy_use_by_vehicle_type,Total road,energy_use,1138.9407044818827,PJ
+2014-15,road_energy_use_by_vehicle_type,Total road,energy_use,1129.3722762249017,PJ
+2015-16,road_energy_use_by_vehicle_type,Total road,energy_use,1163.0853540628316,PJ
+2016-17,road_energy_use_by_vehicle_type,Total road,energy_use,1165.0508427123366,PJ
+2017-18,road_energy_use_by_vehicle_type,Total road,energy_use,1206.7386944642362,PJ
+2018-19,road_energy_use_by_vehicle_type,Total road,energy_use,1203.3128909516633,PJ
+2019-20,road_energy_use_by_vehicle_type,Total road,energy_use,1174.2326516268613,PJ
+2020-21,road_energy_use_by_vehicle_type,Total road,energy_use,1164.6837964435188,PJ
+2021-22,road_energy_use_by_vehicle_type,Total road,energy_use,1156.5790926963018,PJ
+2022-23,road_energy_use_by_vehicle_type,Total road,energy_use,1221.6412058086933,PJ
+2023-24,road_energy_use_by_vehicle_type,Total road,energy_use,1239.5914510613327,PJ
+2024-25,road_energy_use_by_vehicle_type,Total road,energy_use,1241.964435632366,PJ
+2010-11,domestic_transport_energy_use_by_fuel_type,Electricity,energy_use,7.596857285334933,PJ
+2011-12,domestic_transport_energy_use_by_fuel_type,Electricity,energy_use,7.674711542444082,PJ
+2012-13,domestic_transport_energy_use_by_fuel_type,Electricity,energy_use,7.62294139323441,PJ
+2013-14,domestic_transport_energy_use_by_fuel_type,Electricity,energy_use,7.782601233738873,PJ
+2014-15,domestic_transport_energy_use_by_fuel_type,Electricity,energy_use,8.117593883519882,PJ
+2015-16,domestic_transport_energy_use_by_fuel_type,Electricity,energy_use,8.608547214861577,PJ
+2016-17,domestic_transport_energy_use_by_fuel_type,Electricity,energy_use,8.602242629158189,PJ
+2017-18,domestic_transport_energy_use_by_fuel_type,Electricity,energy_use,8.875193813036676,PJ
+2018-19,domestic_transport_energy_use_by_fuel_type,Electricity,energy_use,9.184163925452829,PJ
+2019-20,domestic_transport_energy_use_by_fuel_type,Electricity,energy_use,9.442068850668779,PJ
+2020-21,domestic_transport_energy_use_by_fuel_type,Electricity,energy_use,9.500695339818787,PJ
+2021-22,domestic_transport_energy_use_by_fuel_type,Electricity,energy_use,9.726989322804487,PJ
+2022-23,domestic_transport_energy_use_by_fuel_type,Electricity,energy_use,10.600740367200373,PJ
+2023-24,domestic_transport_energy_use_by_fuel_type,Electricity,energy_use,12.023097286495819,PJ
+2024-25,domestic_transport_energy_use_by_fuel_type,Electricity,energy_use,13.570381610974378,PJ

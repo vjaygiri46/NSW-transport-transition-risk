@@ -1,0 +1,909 @@
+source_workbook,sheet,geography,period_type,period,fuel_type,fuel_group,generation_gwh,is_estimate
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1989-90,black coal,non_renewable,87573.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1990-91,black coal,non_renewable,89511.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1991-92,black coal,non_renewable,94325.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1992-93,black coal,non_renewable,97872.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1993-94,black coal,non_renewable,100544.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1994-95,black coal,non_renewable,102522.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1995-96,black coal,non_renewable,106089.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1996-97,black coal,non_renewable,109452.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1997-98,black coal,non_renewable,116969.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1998-99,black coal,non_renewable,118586.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1999-00,black coal,non_renewable,123833.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2000-01,black coal,non_renewable,134264.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2001-02,black coal,non_renewable,116774.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2002-03,black coal,non_renewable,115296.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2003-04,black coal,non_renewable,121182.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2004-05,black coal,non_renewable,127788.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2005-06,black coal,non_renewable,130231.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2006-07,black coal,non_renewable,132368.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2007-08,black coal,non_renewable,129569.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2008-09,black coal,non_renewable,127270.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2009-10,black coal,non_renewable,123724.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2010-11,black coal,non_renewable,116948.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2011-12,black coal,non_renewable,116654.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2012-13,black coal,non_renewable,111491.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2013-14,black coal,non_renewable,106965.495,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2014-15,black coal,non_renewable,107639.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2015-16,black coal,non_renewable,114263.032,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2016-17,black coal,non_renewable,118235.959,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2017-18,black coal,non_renewable,121689.29,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2018-19,black coal,non_renewable,119809.515,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2019-20,black coal,non_renewable,111860.822,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2020-21,black coal,non_renewable,106251.414,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2021-22,black coal,non_renewable,101076.158,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2022-23,black coal,non_renewable,96173.858,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2023-24,black coal,non_renewable,96405.277,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2024-25,black coal,non_renewable,93308.53,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1989-90,brown coal,non_renewable,33594.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1990-91,brown coal,non_renewable,36048.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1991-92,brown coal,non_renewable,34559.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1992-93,brown coal,non_renewable,33248.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1993-94,brown coal,non_renewable,34890.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1994-95,brown coal,non_renewable,35832.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1995-96,brown coal,non_renewable,39427.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1996-97,brown coal,non_renewable,41893.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1997-98,brown coal,non_renewable,46633.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1998-99,brown coal,non_renewable,49703.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1999-00,brown coal,non_renewable,50200.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2000-01,brown coal,non_renewable,52223.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2001-02,brown coal,non_renewable,56493.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2002-03,brown coal,non_renewable,55160.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2003-04,brown coal,non_renewable,55572.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2004-05,brown coal,non_renewable,53377.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2005-06,brown coal,non_renewable,54552.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2006-07,brown coal,non_renewable,54375.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2007-08,brown coal,non_renewable,54658.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2008-09,brown coal,non_renewable,56981.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2009-10,brown coal,non_renewable,56068.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2010-11,brown coal,non_renewable,55298.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2011-12,brown coal,non_renewable,55067.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2012-13,brown coal,non_renewable,47555.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2013-14,brown coal,non_renewable,46076.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2014-15,brown coal,non_renewable,50970.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2015-16,brown coal,non_renewable,48827.807,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2016-17,brown coal,non_renewable,43594.098,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2017-18,brown coal,non_renewable,36021.427,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2018-19,brown coal,non_renewable,34495.245,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2019-20,brown coal,non_renewable,33661.55,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2020-21,brown coal,non_renewable,34060.028,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2021-22,brown coal,non_renewable,32515.636,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2022-23,brown coal,non_renewable,31459.126,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2023-24,brown coal,non_renewable,32137.08,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2024-25,brown coal,non_renewable,30417.178,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1989-90,natural gas,non_renewable,14359.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1990-91,natural gas,non_renewable,10772.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1991-92,natural gas,non_renewable,11633.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1992-93,natural gas,non_renewable,12295.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1993-94,natural gas,non_renewable,12199.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1994-95,natural gas,non_renewable,14913.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1995-96,natural gas,non_renewable,12445.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1996-97,natural gas,non_renewable,11426.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1997-98,natural gas,non_renewable,12934.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1998-99,natural gas,non_renewable,16001.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1999-00,natural gas,non_renewable,16245.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2000-01,natural gas,non_renewable,17271.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2001-02,natural gas,non_renewable,31730.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2002-03,natural gas,non_renewable,29375.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2003-04,natural gas,non_renewable,30919.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2004-05,natural gas,non_renewable,23802.9,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2005-06,natural gas,non_renewable,22725.9,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2006-07,natural gas,non_renewable,31849.9,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2007-08,natural gas,non_renewable,34955.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2008-09,natural gas,non_renewable,37660.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2009-10,natural gas,non_renewable,44587.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2010-11,natural gas,non_renewable,48996.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2011-12,natural gas,non_renewable,48571.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2012-13,natural gas,non_renewable,51053.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2013-14,natural gas,non_renewable,54393.9,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2014-15,natural gas,non_renewable,52916.912,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2015-16,natural gas,non_renewable,50536.079,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2016-17,natural gas,non_renewable,50459.745,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2017-18,natural gas,non_renewable,53881.669,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2018-19,natural gas,non_renewable,52775.399,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2019-20,natural gas,non_renewable,55216.284,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2020-21,natural gas,non_renewable,49782.93,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2021-22,natural gas,non_renewable,49280.225,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2022-23,natural gas,non_renewable,48865.237,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2023-24,natural gas,non_renewable,48489.114,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2024-25,natural gas,non_renewable,47951.503,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1989-90,oil products,non_renewable,3552.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1990-91,oil products,non_renewable,3396.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1991-92,oil products,non_renewable,2362.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1992-93,oil products,non_renewable,2421.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1993-94,oil products,non_renewable,2320.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1994-95,oil products,non_renewable,2738.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1995-96,oil products,non_renewable,2805.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1996-97,oil products,non_renewable,2175.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1997-98,oil products,non_renewable,1821.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1998-99,oil products,non_renewable,1729.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1999-00,oil products,non_renewable,1784.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2000-01,oil products,non_renewable,2044.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2001-02,oil products,non_renewable,2446.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2002-03,oil products,non_renewable,1661.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2003-04,oil products,non_renewable,1388.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2004-05,oil products,non_renewable,2841.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2005-06,oil products,non_renewable,3058.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2006-07,oil products,non_renewable,2893.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2007-08,oil products,non_renewable,4058.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2008-09,oil products,non_renewable,3387.9,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2009-10,oil products,non_renewable,3106.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2010-11,oil products,non_renewable,3093.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2011-12,oil products,non_renewable,2702.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2012-13,oil products,non_renewable,4464.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2013-14,oil products,non_renewable,5012.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2014-15,oil products,non_renewable,6828.45,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2015-16,oil products,non_renewable,5655.616,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2016-17,oil products,non_renewable,5272.59,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2017-18,oil products,non_renewable,4820.876,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2018-19,oil products,non_renewable,4922.945,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2019-20,oil products,non_renewable,4509.201,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2020-21,oil products,non_renewable,4661.89,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2021-22,oil products,non_renewable,4664.001,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2022-23,oil products,non_renewable,4864.397,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2023-24,oil products,non_renewable,4822.944,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2024-25,oil products,non_renewable,4796.996,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2002-03,other [note a],non_renewable,1792.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2003-04,other [note a],non_renewable,1817.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2004-05,other [note a],non_renewable,434.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2005-06,other [note a],non_renewable,517.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2006-07,other [note a],non_renewable,479.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2007-08,other [note a],non_renewable,106.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1989-90,total non-renewable,subtotal_non_renewable,139078.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1990-91,total non-renewable,subtotal_non_renewable,139727.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1991-92,total non-renewable,subtotal_non_renewable,142879.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1992-93,total non-renewable,subtotal_non_renewable,145836.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1993-94,total non-renewable,subtotal_non_renewable,149953.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1994-95,total non-renewable,subtotal_non_renewable,156005.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1995-96,total non-renewable,subtotal_non_renewable,160766.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1996-97,total non-renewable,subtotal_non_renewable,164946.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1997-98,total non-renewable,subtotal_non_renewable,178357.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1998-99,total non-renewable,subtotal_non_renewable,186019.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1999-00,total non-renewable,subtotal_non_renewable,192062.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2000-01,total non-renewable,subtotal_non_renewable,205802.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2001-02,total non-renewable,subtotal_non_renewable,207443.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2002-03,total non-renewable,subtotal_non_renewable,203285.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2003-04,total non-renewable,subtotal_non_renewable,210880.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2004-05,total non-renewable,subtotal_non_renewable,208244.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2005-06,total non-renewable,subtotal_non_renewable,211085.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2006-07,total non-renewable,subtotal_non_renewable,221966.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2007-08,total non-renewable,subtotal_non_renewable,223347.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2008-09,total non-renewable,subtotal_non_renewable,225300.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2009-10,total non-renewable,subtotal_non_renewable,227487.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2010-11,total non-renewable,subtotal_non_renewable,224337.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2011-12,total non-renewable,subtotal_non_renewable,222996.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2012-13,total non-renewable,subtotal_non_renewable,214563.9,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2013-14,total non-renewable,subtotal_non_renewable,212447.895,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2014-15,total non-renewable,subtotal_non_renewable,218355.162,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2015-16,total non-renewable,subtotal_non_renewable,219282.534,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2016-17,total non-renewable,subtotal_non_renewable,217562.392,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2017-18,total non-renewable,subtotal_non_renewable,216413.262,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2018-19,total non-renewable,subtotal_non_renewable,212003.104,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2019-20,total non-renewable,subtotal_non_renewable,205247.857,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2020-21,total non-renewable,subtotal_non_renewable,194756.262,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2021-22,total non-renewable,subtotal_non_renewable,187536.02,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2022-23,total non-renewable,subtotal_non_renewable,181362.618,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2023-24,total non-renewable,subtotal_non_renewable,181854.414,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2024-25,total non-renewable,subtotal_non_renewable,176474.208,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1989-90,"bagasse, wood",renewable,750.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1990-91,"bagasse, wood",renewable,769.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1991-92,"bagasse, wood",renewable,670.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1992-93,"bagasse, wood",renewable,670.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1993-94,"bagasse, wood",renewable,670.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1994-95,"bagasse, wood",renewable,670.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1995-96,"bagasse, wood",renewable,670.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1996-97,"bagasse, wood",renewable,670.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1997-98,"bagasse, wood",renewable,670.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1998-99,"bagasse, wood",renewable,674.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1999-00,"bagasse, wood",renewable,685.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2000-01,"bagasse, wood",renewable,633.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2001-02,"bagasse, wood",renewable,669.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2002-03,"bagasse, wood",renewable,826.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2003-04,"bagasse, wood",renewable,1058.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2004-05,"bagasse, wood",renewable,3237.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2005-06,"bagasse, wood",renewable,3268.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2006-07,"bagasse, wood",renewable,3316.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2007-08,"bagasse, wood",renewable,3737.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2008-09,"bagasse, wood",renewable,1763.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2009-10,"bagasse, wood",renewable,1761.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2010-11,"bagasse, wood",renewable,1077.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2011-12,"bagasse, wood",renewable,1606.306,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2012-13,"bagasse, wood",renewable,1714.34,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2013-14,"bagasse, wood",renewable,2053.487,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2014-15,"bagasse, wood",renewable,2353.376,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2015-16,"bagasse, wood",renewable,2493.407,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2016-17,"bagasse, wood",renewable,2251.59,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2017-18,"bagasse, wood",renewable,2258.893,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2018-19,"bagasse, wood",renewable,2152.237,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2019-20,"bagasse, wood",renewable,1989.764,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2020-21,"bagasse, wood",renewable,1992.17,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2021-22,"bagasse, wood",renewable,1817.451,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2022-23,"bagasse, wood",renewable,1687.72,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2023-24,"bagasse, wood",renewable,1911.601,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2024-25,"bagasse, wood",renewable,1841.088,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1994-95,biogas,renewable,53.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1995-96,biogas,renewable,258.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1996-97,biogas,renewable,295.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1997-98,biogas,renewable,359.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1998-99,biogas,renewable,459.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1999-00,biogas,renewable,449.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2000-01,biogas,renewable,12.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2001-02,biogas,renewable,281.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2002-03,biogas,renewable,757.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2003-04,biogas,renewable,741.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2004-05,biogas,renewable,593.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2005-06,biogas,renewable,643.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2006-07,biogas,renewable,637.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2007-08,biogas,renewable,859.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2008-09,biogas,renewable,1031.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2009-10,biogas,renewable,1015.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2010-11,biogas,renewable,1024.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2011-12,biogas,renewable,1437.441,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2012-13,biogas,renewable,1429.16,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2013-14,biogas,renewable,1445.903,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2014-15,biogas,renewable,1238.858,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2015-16,biogas,renewable,1296.487,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2016-17,biogas,renewable,1248.956,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2017-18,biogas,renewable,1258.792,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2018-19,biogas,renewable,1343.644,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2019-20,biogas,renewable,1361.866,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2020-21,biogas,renewable,1354.012,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2021-22,biogas,renewable,1372.806,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2022-23,biogas,renewable,1408.312,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2023-24,biogas,renewable,1390.27,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2024-25,biogas,renewable,1389.552,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1993-94,wind,renewable,4.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1994-95,wind,renewable,7.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1995-96,wind,renewable,7.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1996-97,wind,renewable,7.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1997-98,wind,renewable,8.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1998-99,wind,renewable,28.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1999-00,wind,renewable,58.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2000-01,wind,renewable,210.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2001-02,wind,renewable,364.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2002-03,wind,renewable,703.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2003-04,wind,renewable,705.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2004-05,wind,renewable,885.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2005-06,wind,renewable,1713.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2006-07,wind,renewable,2611.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2007-08,wind,renewable,3093.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2008-09,wind,renewable,3823.797,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2009-10,wind,renewable,5051.709,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2010-11,wind,renewable,6084.891,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2011-12,wind,renewable,6969.828,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2012-13,wind,renewable,7959.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2013-14,wind,renewable,10251.939,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2014-15,wind,renewable,11466.485,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2015-16,wind,renewable,12199.498,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2016-17,wind,renewable,12596.985,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2017-18,wind,renewable,15174.425,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2018-19,wind,renewable,17711.951,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2019-20,wind,renewable,20395.885,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2020-21,wind,renewable,24535.369,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2021-22,wind,renewable,29107.793,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2022-23,wind,renewable,31384.874,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2023-24,wind,renewable,30991.961,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2024-25,wind,renewable,35554.203,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1989-90,hydro,renewable,14880.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1990-91,hydro,renewable,16103.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1991-92,hydro,renewable,15768.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1992-93,hydro,renewable,16953.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1993-94,hydro,renewable,16649.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1994-95,hydro,renewable,16239.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1995-96,hydro,renewable,15731.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1996-97,hydro,renewable,16852.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1997-98,hydro,renewable,15733.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1998-99,hydro,renewable,16563.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1999-00,hydro,renewable,16720.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2000-01,hydro,renewable,16933.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2001-02,hydro,renewable,16054.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2002-03,hydro,renewable,16490.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2003-04,hydro,renewable,16331.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2004-05,hydro,renewable,15612.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2005-06,hydro,renewable,16029.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2006-07,hydro,renewable,14517.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2007-08,hydro,renewable,12056.9,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2008-09,hydro,renewable,11869.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2009-10,hydro,renewable,13548.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2010-11,hydro,renewable,16806.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2011-12,hydro,renewable,14083.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2012-13,hydro,renewable,18269.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2013-14,hydro,renewable,18420.9,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2014-15,hydro,renewable,13445.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2015-16,hydro,renewable,15318.18,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2016-17,hydro,renewable,16284.887,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2017-18,hydro,renewable,16020.789,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2018-19,hydro,renewable,15967.281,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2019-20,hydro,renewable,15149.633,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2020-21,hydro,renewable,15199.688,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2021-22,hydro,renewable,17010.891,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2022-23,hydro,renewable,16666.054,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2023-24,hydro,renewable,14960.055,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2024-25,hydro,renewable,14077.516,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2013-14,large-scale solar pv,renewable,49.678,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2014-15,large-scale solar pv,renewable,107.221,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2015-16,large-scale solar pv,renewable,457.212,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2016-17,large-scale solar pv,renewable,672.397,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2017-18,large-scale solar pv,renewable,1007.582,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2018-19,large-scale solar pv,renewable,3732.36,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2019-20,large-scale solar pv,renewable,7136.107,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2020-21,large-scale solar pv,renewable,9637.887,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2021-22,large-scale solar pv,renewable,12569.176,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2022-23,large-scale solar pv,renewable,15212.567,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2023-24,large-scale solar pv,renewable,18306.217,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2024-25,large-scale solar pv,renewable,19837.36,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1991-92,small-scale solar pv,renewable,10.9,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1992-93,small-scale solar pv,renewable,13.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1993-94,small-scale solar pv,renewable,15.9,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1994-95,small-scale solar pv,renewable,18.9,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1995-96,small-scale solar pv,renewable,23.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1996-97,small-scale solar pv,renewable,27.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1997-98,small-scale solar pv,renewable,33.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1998-99,small-scale solar pv,renewable,37.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1999-00,small-scale solar pv,renewable,43.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2000-01,small-scale solar pv,renewable,50.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2001-02,small-scale solar pv,renewable,58.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2002-03,small-scale solar pv,renewable,58.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2003-04,small-scale solar pv,renewable,68.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2004-05,small-scale solar pv,renewable,77.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2005-06,small-scale solar pv,renewable,90.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2006-07,small-scale solar pv,renewable,104.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2007-08,small-scale solar pv,renewable,122.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2008-09,small-scale solar pv,renewable,155.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2009-10,small-scale solar pv,renewable,424.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2010-11,small-scale solar pv,renewable,1530.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2011-12,small-scale solar pv,renewable,2558.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2012-13,small-scale solar pv,renewable,3826.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2013-14,small-scale solar pv,renewable,4366.277,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2014-15,small-scale solar pv,renewable,5424.113,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2015-16,small-scale solar pv,renewable,6381.049,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2016-17,small-scale solar pv,renewable,7399.259,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2017-18,small-scale solar pv,renewable,8922.359,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2018-19,small-scale solar pv,renewable,11116.163,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2019-20,small-scale solar pv,renewable,13897.088,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2020-21,small-scale solar pv,renewable,18079.064,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2021-22,small-scale solar pv,renewable,22117.45,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2022-23,small-scale solar pv,renewable,26229.198,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2023-24,small-scale solar pv,renewable,29397.565,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2024-25,small-scale solar pv,renewable,33224.127,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2003-04,geothermal,renewable,0.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2004-05,geothermal,renewable,0.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2005-06,geothermal,renewable,0.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2006-07,geothermal,renewable,0.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2007-08,geothermal,renewable,0.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2008-09,geothermal,renewable,0.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2009-10,geothermal,renewable,0.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2010-11,geothermal,renewable,0.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2011-12,geothermal,renewable,0.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2012-13,geothermal,renewable,0.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2013-14,geothermal,renewable,0.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2014-15,geothermal,renewable,0.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2015-16,geothermal,renewable,0.215,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2016-17,geothermal,renewable,0.502,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1989-90,total renewable,subtotal_renewable,15630.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1990-91,total renewable,subtotal_renewable,16872.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1991-92,total renewable,subtotal_renewable,16448.9,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1992-93,total renewable,subtotal_renewable,17636.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1993-94,total renewable,subtotal_renewable,17338.9,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1994-95,total renewable,subtotal_renewable,16987.9,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1995-96,total renewable,subtotal_renewable,16689.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1996-97,total renewable,subtotal_renewable,17851.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1997-98,total renewable,subtotal_renewable,16803.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1998-99,total renewable,subtotal_renewable,17761.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1999-00,total renewable,subtotal_renewable,17955.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2000-01,total renewable,subtotal_renewable,17838.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2001-02,total renewable,subtotal_renewable,17426.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2002-03,total renewable,subtotal_renewable,18835.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2003-04,total renewable,subtotal_renewable,18904.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2004-05,total renewable,subtotal_renewable,20405.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2005-06,total renewable,subtotal_renewable,21744.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2006-07,total renewable,subtotal_renewable,21186.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2007-08,total renewable,subtotal_renewable,19869.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2008-09,total renewable,subtotal_renewable,18644.497,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2009-10,total renewable,subtotal_renewable,21803.109,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2010-11,total renewable,subtotal_renewable,26524.291,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2011-12,total renewable,subtotal_renewable,26655.975,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2012-13,total renewable,subtotal_renewable,33199.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2013-14,total renewable,subtotal_renewable,36588.684,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2014-15,total renewable,subtotal_renewable,34035.653,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2015-16,total renewable,subtotal_renewable,38146.048,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2016-17,total renewable,subtotal_renewable,40454.576,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2017-18,total renewable,subtotal_renewable,44642.84,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2018-19,total renewable,subtotal_renewable,52023.636,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2019-20,total renewable,subtotal_renewable,59930.342,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2020-21,total renewable,subtotal_renewable,70798.19,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2021-22,total renewable,subtotal_renewable,83995.568,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2022-23,total renewable,subtotal_renewable,92588.725,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2023-24,total renewable,subtotal_renewable,96957.669,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2024-25,total renewable,subtotal_renewable,105923.846,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1989-90,total,total,154708.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1990-91,total,total,156599.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1991-92,total,total,159328.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1992-93,total,total,163473.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1993-94,total,total,167292.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1994-95,total,total,172993.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1995-96,total,total,177456.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1996-97,total,total,182798.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1997-98,total,total,195161.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1998-99,total,total,203781.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,1999-00,total,total,210018.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2000-01,total,total,223640.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2001-02,total,total,224870.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2002-03,total,total,222120.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2003-04,total,total,229784.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2004-05,total,total,228649.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2005-06,total,total,232829.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2006-07,total,total,243152.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2007-08,total,total,243217.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2008-09,total,total,243944.697,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2009-10,total,total,249290.509,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2010-11,total,total,250861.691,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2011-12,total,total,249651.975,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2012-13,total,total,247763.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2013-14,total,total,249036.579,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2014-15,total,total,252390.815,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2015-16,total,total,257428.582,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2016-17,total,total,258016.968,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2017-18,total,total,261056.102,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2018-19,total,total,264026.741,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2019-20,total,total,265178.199,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2020-21,total,total,265554.452,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2021-22,total,total,271531.588,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2022-23,total,total,273951.343,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2023-24,total,total,278812.083,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS FY,AUS,financial_year,2024-25,total,total,282398.053,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2008-09,black coal,non_renewable,67650.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2009-10,black coal,non_renewable,64398.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2010-11,black coal,non_renewable,60732.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2011-12,black coal,non_renewable,60453.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2012-13,black coal,non_renewable,56798.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2013-14,black coal,non_renewable,55819.495,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2014-15,black coal,non_renewable,52562.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2015-16,black coal,non_renewable,55334.499,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2016-17,black coal,non_renewable,55967.139,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2017-18,black coal,non_renewable,57022.151,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2018-19,black coal,non_renewable,57734.932,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2019-20,black coal,non_renewable,53566.67,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2020-21,black coal,non_renewable,50790.813,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2021-22,black coal,non_renewable,46958.795,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2022-23,black coal,non_renewable,45602.768,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2023-24,black coal,non_renewable,44885.907,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2024-25,black coal,non_renewable,43704.366,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2008-09,natural gas,non_renewable,2445.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2009-10,natural gas,non_renewable,4681.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2010-11,natural gas,non_renewable,4742.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2011-12,natural gas,non_renewable,4212.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2012-13,natural gas,non_renewable,5168.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2013-14,natural gas,non_renewable,5528.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2014-15,natural gas,non_renewable,4528.39,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2015-16,natural gas,non_renewable,4628.561,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2016-17,natural gas,non_renewable,3330.808,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2017-18,natural gas,non_renewable,3045.834,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2018-19,natural gas,non_renewable,2360.324,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2019-20,natural gas,non_renewable,2870.937,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2020-21,natural gas,non_renewable,1903.206,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2021-22,natural gas,non_renewable,3210.705,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2022-23,natural gas,non_renewable,2497.562,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2023-24,natural gas,non_renewable,2159.23,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2024-25,natural gas,non_renewable,2398.029,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2008-09,oil products,non_renewable,24.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2009-10,oil products,non_renewable,5.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2010-11,oil products,non_renewable,61.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2011-12,oil products,non_renewable,42.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2012-13,oil products,non_renewable,190.9,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2013-14,oil products,non_renewable,170.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2014-15,oil products,non_renewable,284.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2015-16,oil products,non_renewable,289.533,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2016-17,oil products,non_renewable,321.55,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2017-18,oil products,non_renewable,324.365,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2018-19,oil products,non_renewable,322.563,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2019-20,oil products,non_renewable,337.29,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2020-21,oil products,non_renewable,340.577,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2021-22,oil products,non_renewable,458.081,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2022-23,oil products,non_renewable,389.558,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2023-24,oil products,non_renewable,590.955,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2024-25,oil products,non_renewable,576.636,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2008-09,total non-renewable,subtotal_non_renewable,70120.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2009-10,total non-renewable,subtotal_non_renewable,69085.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2010-11,total non-renewable,subtotal_non_renewable,65536.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2011-12,total non-renewable,subtotal_non_renewable,64707.9,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2012-13,total non-renewable,subtotal_non_renewable,62158.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2013-14,total non-renewable,subtotal_non_renewable,61518.495,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2014-15,total non-renewable,subtotal_non_renewable,57374.89,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2015-16,total non-renewable,subtotal_non_renewable,60252.593,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2016-17,total non-renewable,subtotal_non_renewable,59619.497,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2017-18,total non-renewable,subtotal_non_renewable,60392.35,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2018-19,total non-renewable,subtotal_non_renewable,60417.819,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2019-20,total non-renewable,subtotal_non_renewable,56774.898,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2020-21,total non-renewable,subtotal_non_renewable,53034.595,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2021-22,total non-renewable,subtotal_non_renewable,50627.581,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2022-23,total non-renewable,subtotal_non_renewable,48489.888,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2023-24,total non-renewable,subtotal_non_renewable,47636.092,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2024-25,total non-renewable,subtotal_non_renewable,46679.031,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2008-09,"bagasse, wood",renewable,291.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2009-10,"bagasse, wood",renewable,295.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2010-11,"bagasse, wood",renewable,253.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2011-12,"bagasse, wood",renewable,413.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2012-13,"bagasse, wood",renewable,425.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2013-14,"bagasse, wood",renewable,461.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2014-15,"bagasse, wood",renewable,551.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2015-16,"bagasse, wood",renewable,601.734,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2016-17,"bagasse, wood",renewable,696.468,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2017-18,"bagasse, wood",renewable,764.985,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2018-19,"bagasse, wood",renewable,758.832,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2019-20,"bagasse, wood",renewable,716.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2020-21,"bagasse, wood",renewable,686.098,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2021-22,"bagasse, wood",renewable,568.338,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2022-23,"bagasse, wood",renewable,580.955,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2023-24,"bagasse, wood",renewable,616.879,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2024-25,"bagasse, wood",renewable,621.757,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2008-09,biogas,renewable,383.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2009-10,biogas,renewable,385.8,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2010-11,biogas,renewable,360.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2011-12,biogas,renewable,408.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2012-13,biogas,renewable,413.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2013-14,biogas,renewable,420.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2014-15,biogas,renewable,472.1,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2015-16,biogas,renewable,444.606,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2016-17,biogas,renewable,406.21,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2017-18,biogas,renewable,424.375,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2018-19,biogas,renewable,418.791,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2019-20,biogas,renewable,387.435,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2020-21,biogas,renewable,411.044,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2021-22,biogas,renewable,398.533,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2022-23,biogas,renewable,411.396,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2023-24,biogas,renewable,423.59,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2024-25,biogas,renewable,462.762,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2008-09,wind,renewable,41.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2009-10,wind,renewable,432.5,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2010-11,wind,renewable,530.091,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2011-12,wind,renewable,697.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2012-13,wind,renewable,832.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2013-14,wind,renewable,899.202,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2014-15,wind,renewable,1376.0,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2015-16,wind,renewable,1898.787,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2016-17,wind,renewable,1872.027,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2017-18,wind,renewable,2431.628,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2018-19,wind,renewable,3739.737,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2019-20,wind,renewable,4574.26,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2020-21,wind,renewable,4805.916,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2021-22,wind,renewable,5973.429,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2022-23,wind,renewable,6210.924,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2023-24,wind,renewable,5892.994,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2024-25,wind,renewable,7419.461,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2008-09,hydro,renewable,1496.977,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2009-10,hydro,renewable,2689.526,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2010-11,hydro,renewable,2474.878,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2011-12,hydro,renewable,2446.925,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2012-13,hydro,renewable,3298.089,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2013-14,hydro,renewable,2721.109,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2014-15,hydro,renewable,1770.988,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2015-16,hydro,renewable,3170.201,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2016-17,hydro,renewable,3290.647,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2017-18,hydro,renewable,2915.519,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2018-19,hydro,renewable,2160.284,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2019-20,hydro,renewable,2110.053,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2020-21,hydro,renewable,2964.239,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2021-22,hydro,renewable,3315.523,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2022-23,hydro,renewable,3752.077,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2023-24,hydro,renewable,3148.196,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2024-25,hydro,renewable,3077.198,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2013-14,large-scale solar pv,renewable,10.635,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2014-15,large-scale solar pv,renewable,60.176,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2015-16,large-scale solar pv,renewable,399.511,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2016-17,large-scale solar pv,renewable,567.558,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2017-18,large-scale solar pv,renewable,699.96,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2018-19,large-scale solar pv,renewable,1348.238,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2019-20,large-scale solar pv,renewable,2084.569,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2020-21,large-scale solar pv,renewable,3368.02,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2021-22,large-scale solar pv,renewable,5014.413,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2022-23,large-scale solar pv,renewable,5770.351,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2023-24,large-scale solar pv,renewable,7529.167,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2024-25,large-scale solar pv,renewable,8243.058,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2008-09,small-scale solar pv,renewable,36.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2009-10,small-scale solar pv,renewable,119.2,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2010-11,small-scale solar pv,renewable,526.3,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2011-12,small-scale solar pv,renewable,657.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2012-13,small-scale solar pv,renewable,857.6,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2013-14,small-scale solar pv,renewable,964.898,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2014-15,small-scale solar pv,renewable,1211.187,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2015-16,small-scale solar pv,renewable,1461.945,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2016-17,small-scale solar pv,renewable,1706.84,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2017-18,small-scale solar pv,renewable,2095.805,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2018-19,small-scale solar pv,renewable,2717.095,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2019-20,small-scale solar pv,renewable,3417.322,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2020-21,small-scale solar pv,renewable,4892.915,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2021-22,small-scale solar pv,renewable,6201.341,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2022-23,small-scale solar pv,renewable,7555.163,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2023-24,small-scale solar pv,renewable,8824.316,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2024-25,small-scale solar pv,renewable,10166.727,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2008-09,total renewable,subtotal_renewable,2249.277,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2009-10,total renewable,subtotal_renewable,3922.326,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2010-11,total renewable,subtotal_renewable,4144.569,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2011-12,total renewable,subtotal_renewable,4624.525,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2012-13,total renewable,subtotal_renewable,5827.089,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2013-14,total renewable,subtotal_renewable,5478.144,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2014-15,total renewable,subtotal_renewable,5441.551,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2015-16,total renewable,subtotal_renewable,7976.784,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2016-17,total renewable,subtotal_renewable,8539.75,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2017-18,total renewable,subtotal_renewable,9332.271,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2018-19,total renewable,subtotal_renewable,11142.976,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2019-20,total renewable,subtotal_renewable,13289.838,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2020-21,total renewable,subtotal_renewable,17128.232,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2021-22,total renewable,subtotal_renewable,21471.578,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2022-23,total renewable,subtotal_renewable,24280.866,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2023-24,total renewable,subtotal_renewable,26435.142,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2024-25,total renewable,subtotal_renewable,29990.965,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2008-09,total,total,72369.377,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2009-10,total,total,73007.826,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2010-11,total,total,69680.869,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2011-12,total,total,69332.425,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2012-13,total,total,67985.289,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2013-14,total,total,66996.639,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2014-15,total,total,62816.441,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2015-16,total,total,68229.377,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2016-17,total,total,68159.247,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2017-18,total,total,69724.621,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2018-19,total,total,71560.795,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2019-20,total,total,70064.736,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2020-21,total,total,70162.827,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2021-22,total,total,72099.159,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2022-23,total,total,72770.754,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2023-24,total,total,74071.235,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW FY,NSW,financial_year,2024-25,total,total,76669.996,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2015,black coal,non_renewable,111654.64,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2016,black coal,non_renewable,115365.652,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2017,black coal,non_renewable,120892.005,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2018,black coal,non_renewable,120594.135,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2019,black coal,non_renewable,116618.694,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2020,black coal,non_renewable,108740.854,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2021,black coal,non_renewable,103756.397,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2022,black coal,non_renewable,97319.206,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2023,black coal,non_renewable,94190.821,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2024,black coal,non_renewable,96150.91,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2025,black coal,non_renewable,92732.719,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2015,brown coal,non_renewable,50547.866,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2016,brown coal,non_renewable,46990.855,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2017,brown coal,non_renewable,38276.668,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2018,brown coal,non_renewable,35961.409,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2019,brown coal,non_renewable,33221.917,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2020,brown coal,non_renewable,34194.094,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2021,brown coal,non_renewable,33471.028,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2022,brown coal,non_renewable,31921.205,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2023,brown coal,non_renewable,31646.619,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2024,brown coal,non_renewable,31408.312,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2025,brown coal,non_renewable,29623.274,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2015,natural gas,non_renewable,49705.56,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2016,natural gas,non_renewable,48110.499,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2017,natural gas,non_renewable,55087.772,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2018,natural gas,non_renewable,51464.722,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2019,natural gas,non_renewable,55710.585,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2020,natural gas,non_renewable,53053.288,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2021,natural gas,non_renewable,47128.969,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2022,natural gas,non_renewable,51239.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2023,natural gas,non_renewable,46863.659,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2024,natural gas,non_renewable,48975.993,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2025,natural gas,non_renewable,46336.647,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2015,oil products,non_renewable,6162.17,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2016,oil products,non_renewable,5718.235,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2017,oil products,non_renewable,5272.836,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2018,oil products,non_renewable,4901.194,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2019,oil products,non_renewable,4727.208,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2020,oil products,non_renewable,4505.414,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2021,oil products,non_renewable,4682.095,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2022,oil products,non_renewable,4778.259,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2023,oil products,non_renewable,4825.719,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2024,oil products,non_renewable,4848.427,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2025,oil products,non_renewable,4784.621,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2015,total non-renewable,subtotal_non_renewable,218070.235,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2016,total non-renewable,subtotal_non_renewable,216185.241,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2017,total non-renewable,subtotal_non_renewable,219529.281,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2018,total non-renewable,subtotal_non_renewable,212921.46,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2019,total non-renewable,subtotal_non_renewable,210278.405,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2020,total non-renewable,subtotal_non_renewable,200493.65,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2021,total non-renewable,subtotal_non_renewable,189038.49,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2022,total non-renewable,subtotal_non_renewable,185258.37,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2023,total non-renewable,subtotal_non_renewable,177526.817,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2024,total non-renewable,subtotal_non_renewable,181383.643,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2025,total non-renewable,subtotal_non_renewable,173477.261,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2015,biomass,renewable,3677.636,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2016,biomass,renewable,3627.154,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2017,biomass,renewable,3561.433,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2018,biomass,renewable,3588.149,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2019,biomass,renewable,3467.726,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2020,biomass,renewable,3410.424,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2021,biomass,renewable,3373.074,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2022,biomass,renewable,3246.654,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2023,biomass,renewable,3277.94,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2024,biomass,renewable,3451.233,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2025,biomass,renewable,3347.873,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2015,wind,renewable,11833.002,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2016,wind,renewable,13039.705,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2017,wind,renewable,13210.79,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2018,wind,renewable,16261.954,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2019,wind,renewable,19471.688,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2020,wind,renewable,22606.892,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2021,wind,renewable,26829.691,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2022,wind,renewable,30124.987,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2023,wind,renewable,31896.966,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2024,wind,renewable,33261.459,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2025,wind,renewable,40246.976,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2015,hydro,renewable,14207.598,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2016,hydro,renewable,17926.452,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2017,hydro,renewable,13747.748,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2018,hydro,renewable,17528.361,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2019,hydro,renewable,14385.806,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2020,hydro,renewable,14806.581,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2021,hydro,renewable,16436.015,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2022,hydro,renewable,17421.004,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2023,hydro,renewable,16003.836,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2024,hydro,renewable,14159.649,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2025,hydro,renewable,13483.996,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2015,large-scale solar pv,renewable,283.51,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2016,large-scale solar pv,renewable,593.913,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2017,large-scale solar pv,renewable,838.93,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2018,large-scale solar pv,renewable,2402.161,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2019,large-scale solar pv,renewable,5964.583,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2020,large-scale solar pv,renewable,8125.259,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2021,large-scale solar pv,renewable,10632.367,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2022,large-scale solar pv,renewable,13432.076,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2023,large-scale solar pv,renewable,17028.649,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2024,large-scale solar pv,renewable,18676.348,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2025,large-scale solar pv,renewable,21366.266,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2015,small-scale solar pv,renewable,5912.014,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2016,small-scale solar pv,renewable,6845.862,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2017,small-scale solar pv,renewable,8078.627,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2018,small-scale solar pv,renewable,9929.921,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2019,small-scale solar pv,renewable,12331.992,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2020,small-scale solar pv,renewable,15719.282,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2021,small-scale solar pv,renewable,19923.254,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2022,small-scale solar pv,renewable,23592.196,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2023,small-scale solar pv,renewable,27384.693,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2024,small-scale solar pv,renewable,31378.673,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2025,small-scale solar pv,renewable,34843.854,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2015,geothermal,renewable,0.426,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2016,geothermal,renewable,0.358,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2017,geothermal,renewable,0.251,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2015,total renewable,subtotal_renewable,35914.187,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2016,total renewable,subtotal_renewable,42033.446,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2017,total renewable,subtotal_renewable,39437.778,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2018,total renewable,subtotal_renewable,49710.546,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2019,total renewable,subtotal_renewable,55621.795,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2020,total renewable,subtotal_renewable,64668.439,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2021,total renewable,subtotal_renewable,77194.4,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2022,total renewable,subtotal_renewable,87816.918,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2023,total renewable,subtotal_renewable,95592.085,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2024,total renewable,subtotal_renewable,100927.361,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2025,total renewable,subtotal_renewable,113288.966,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2015,total,total,253984.422,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2016,total,total,258218.686,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2017,total,total,258967.059,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2018,total,total,262632.006,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2019,total,total,265900.199,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2020,total,total,265162.088,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2021,total,total,266232.89,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2022,total,total,273075.288,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2023,total,total,273118.901,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2024,total,total,282311.004,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,AUS CY,AUS,calendar_year,2025,total,total,286766.227,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2015,black coal,non_renewable,54528.233,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2016,black coal,non_renewable,54111.037,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2017,black coal,non_renewable,57461.861,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2018,black coal,non_renewable,57245.353,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2019,black coal,non_renewable,56546.18,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2020,black coal,non_renewable,52454.7,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2021,black coal,non_renewable,49145.905,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2022,black coal,non_renewable,46030.606,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2023,black coal,non_renewable,43424.672,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2024,black coal,non_renewable,45798.855,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2025,black coal,non_renewable,42557.421,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2015,natural gas,non_renewable,4929.714,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2016,natural gas,non_renewable,3538.702,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2017,natural gas,non_renewable,3882.369,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2018,natural gas,non_renewable,2282.651,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2019,natural gas,non_renewable,2924.32,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2020,natural gas,non_renewable,1934.844,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2021,natural gas,non_renewable,1779.737,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2022,natural gas,non_renewable,3518.095,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2023,natural gas,non_renewable,2271.029,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2024,natural gas,non_renewable,2280.728,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2025,natural gas,non_renewable,2540.717,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2015,oil products,non_renewable,290.437,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2016,oil products,non_renewable,311.953,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2017,oil products,non_renewable,329.136,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2018,oil products,non_renewable,327.75,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2019,oil products,non_renewable,335.806,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2020,oil products,non_renewable,338.689,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2021,oil products,non_renewable,399.329,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2022,oil products,non_renewable,424.552,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2023,oil products,non_renewable,490.303,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2024,oil products,non_renewable,584.045,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2025,oil products,non_renewable,576.426,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2015,total non-renewable,subtotal_non_renewable,59748.384,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2016,total non-renewable,subtotal_non_renewable,57961.691,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2017,total non-renewable,subtotal_non_renewable,61673.365,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2018,total non-renewable,subtotal_non_renewable,59855.753,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2019,total non-renewable,subtotal_non_renewable,59806.306,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2020,total non-renewable,subtotal_non_renewable,54728.233,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2021,total non-renewable,subtotal_non_renewable,51324.971,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2022,total non-renewable,subtotal_non_renewable,49973.253,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2023,total non-renewable,subtotal_non_renewable,46186.005,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2024,total non-renewable,subtotal_non_renewable,48663.628,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2025,total non-renewable,subtotal_non_renewable,45674.564,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2015,biomass,renewable,1027.223,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2016,biomass,renewable,1051.008,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2017,biomass,renewable,1134.505,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2018,biomass,renewable,1167.289,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2019,biomass,renewable,1124.465,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2020,biomass,renewable,1086.789,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2021,biomass,renewable,1013.728,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2022,biomass,renewable,954.682,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2023,biomass,renewable,996.021,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2024,biomass,renewable,1072.351,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2025,biomass,renewable,1038.141,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2015,wind,renewable,1722.065,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2016,wind,renewable,2064.486,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2017,wind,renewable,1944.92,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2018,wind,renewable,3123.177,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2019,wind,renewable,4400.043,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2020,wind,renewable,4604.666,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2021,wind,renewable,5366.865,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2022,wind,renewable,6147.571,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2023,wind,renewable,5799.556,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2024,wind,renewable,6618.806,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2025,wind,renewable,7949.39,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2015,hydro,renewable,2145.24,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2016,hydro,renewable,3964.486,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2017,hydro,renewable,2271.424,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2018,hydro,renewable,3150.388,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2019,hydro,renewable,2010.814,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2020,hydro,renewable,2399.831,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2021,hydro,renewable,2911.564,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2022,hydro,renewable,3976.32,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2023,hydro,renewable,3745.743,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2024,hydro,renewable,3026.837,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2025,hydro,renewable,2681.544,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2015,large-scale solar pv,renewable,228.215,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2016,large-scale solar pv,renewable,507.282,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2017,large-scale solar pv,renewable,633.473,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2018,large-scale solar pv,renewable,1073.584,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2019,large-scale solar pv,renewable,1731.894,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2020,large-scale solar pv,renewable,2603.635,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2021,large-scale solar pv,renewable,3803.015,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2022,large-scale solar pv,renewable,5347.885,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2023,large-scale solar pv,renewable,6794.528,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2024,large-scale solar pv,renewable,7692.19,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2025,large-scale solar pv,renewable,9005.375,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2015,small-scale solar pv,renewable,1343.755,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2016,small-scale solar pv,renewable,1577.049,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2017,small-scale solar pv,renewable,1876.089,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2018,small-scale solar pv,renewable,2382.153,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2019,small-scale solar pv,renewable,2962.442,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2020,small-scale solar pv,renewable,3974.672,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2021,small-scale solar pv,renewable,5492.104,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2022,small-scale solar pv,renewable,6704.074,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2023,small-scale solar pv,renewable,8067.912,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2024,small-scale solar pv,renewable,9542.804,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2025,small-scale solar pv,renewable,10692.993,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2015,total renewable,subtotal_renewable,6466.497,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2016,total renewable,subtotal_renewable,9164.311,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2017,total renewable,subtotal_renewable,7860.412,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2018,total renewable,subtotal_renewable,10896.592,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2019,total renewable,subtotal_renewable,12229.658,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2020,total renewable,subtotal_renewable,14669.593,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2021,total renewable,subtotal_renewable,18587.275,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2022,total renewable,subtotal_renewable,23130.531,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2023,total renewable,subtotal_renewable,25403.759,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2024,total renewable,subtotal_renewable,27952.989,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2025,total renewable,subtotal_renewable,31367.443,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2015,total,total,66214.881,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2016,total,total,67126.002,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2017,total,total,69533.777,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2018,total,total,70752.345,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2019,total,total,72035.964,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2020,total,total,69397.826,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2021,total,total,69912.246,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2022,total,total,73103.784,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2023,total,total,71589.764,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2024,total,total,76616.617,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,NSW CY,NSW,calendar_year,2025,total,total,77042.007,true

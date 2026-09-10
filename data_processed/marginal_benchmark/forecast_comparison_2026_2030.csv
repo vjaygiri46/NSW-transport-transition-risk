@@ -1,0 +1,166 @@
+series_id,method,year,forecast,unit,status
+fleet_total_nsw,linear_trend,2026,6520205.599999964,vehicles,ok
+fleet_total_nsw,linear_trend,2027,6636479.045588225,vehicles,ok
+fleet_total_nsw,linear_trend,2028,6752752.491176456,vehicles,ok
+fleet_total_nsw,linear_trend,2029,6869025.936764687,vehicles,ok
+fleet_total_nsw,linear_trend,2030,6985299.382352918,vehicles,ok
+fleet_total_nsw,holt_linear,2026,6523449.368782309,vehicles,ok
+fleet_total_nsw,holt_linear,2027,6638851.736172155,vehicles,ok
+fleet_total_nsw,holt_linear,2028,6754254.103562001,vehicles,ok
+fleet_total_nsw,holt_linear,2029,6869656.470951848,vehicles,ok
+fleet_total_nsw,holt_linear,2030,6985058.838341693,vehicles,ok
+fleet_total_nsw,arima_drift,2026,6522967.533333333,vehicles,ok
+fleet_total_nsw,arima_drift,2027,6638061.066666666,vehicles,ok
+fleet_total_nsw,arima_drift,2028,6753154.6,vehicles,ok
+fleet_total_nsw,arima_drift,2029,6868248.133333334,vehicles,ok
+fleet_total_nsw,arima_drift,2030,6983341.666666667,vehicles,ok
+fleet_total_nsw,arima_110,2026,6524843.252444021,vehicles,ok
+fleet_total_nsw,arima_110,2027,6641008.837055983,vehicles,ok
+fleet_total_nsw,arima_110,2028,6757286.920115032,vehicles,ok
+fleet_total_nsw,arima_110,2029,6873549.255498123,vehicles,ok
+fleet_total_nsw,arima_110,2030,6989813.795260959,vehicles,ok
+petrol_share_nsw,linear_trend,2026,66.79540680972832,percent,ok
+petrol_share_nsw,linear_trend,2027,65.6049554662327,percent,ok
+petrol_share_nsw,linear_trend,2028,64.41450412273753,percent,ok
+petrol_share_nsw,linear_trend,2029,63.224052779242356,percent,ok
+petrol_share_nsw,linear_trend,2030,62.03360143574719,percent,ok
+petrol_share_nsw,holt_linear,2026,65.49554666360012,percent,ok
+petrol_share_nsw,holt_linear,2027,63.716771819705485,percent,ok
+petrol_share_nsw,holt_linear,2028,61.93799697581085,percent,ok
+petrol_share_nsw,holt_linear,2029,60.15922213191621,percent,ok
+petrol_share_nsw,holt_linear,2030,58.38044728802157,percent,ok
+petrol_share_nsw,arima_drift,2026,66.06170208494521,percent,ok
+petrol_share_nsw,arima_drift,2027,64.84937537344403,percent,ok
+petrol_share_nsw,arima_drift,2028,63.63704866194286,percent,ok
+petrol_share_nsw,arima_drift,2029,62.42472195044169,percent,ok
+petrol_share_nsw,arima_drift,2030,61.21239523894052,percent,ok
+petrol_share_nsw,arima_110,2026,65.5785369965984,percent,ok
+petrol_share_nsw,arima_110,2027,63.9462891353469,percent,ok
+petrol_share_nsw,arima_110,2028,62.36179098267933,percent,ok
+petrol_share_nsw,arima_110,2029,60.813344263879564,percent,ok
+petrol_share_nsw,arima_110,2030,59.292116682588045,percent,ok
+diesel_share_nsw,linear_trend,2026,30.064013463422725,percent,ok
+diesel_share_nsw,linear_trend,2027,31.17982730374706,percent,ok
+diesel_share_nsw,linear_trend,2028,32.29564114407094,percent,ok
+diesel_share_nsw,linear_trend,2029,33.41145498439528,percent,ok
+diesel_share_nsw,linear_trend,2030,34.52726882471961,percent,ok
+diesel_share_nsw,holt_linear,2026,27.86110034522624,percent,ok
+diesel_share_nsw,holt_linear,2027,28.213807922812865,percent,ok
+diesel_share_nsw,holt_linear,2028,28.566515500399486,percent,ok
+diesel_share_nsw,holt_linear,2029,28.91922307798611,percent,ok
+diesel_share_nsw,holt_linear,2030,29.271930655572735,percent,ok
+diesel_share_nsw,arima_drift,2026,28.5436325308195,percent,ok
+diesel_share_nsw,arima_drift,2027,29.579077478674677,percent,ok
+diesel_share_nsw,arima_drift,2028,30.61452242652985,percent,ok
+diesel_share_nsw,arima_drift,2029,31.64996737438502,percent,ok
+diesel_share_nsw,arima_drift,2030,32.6854123222402,percent,ok
+diesel_share_nsw,arima_110,2026,27.720471889486767,percent,ok
+diesel_share_nsw,arima_110,2027,27.799528415235915,percent,ok
+diesel_share_nsw,arima_110,2028,27.752018549250437,percent,ok
+diesel_share_nsw,arima_110,2029,27.584270611117066,percent,ok
+diesel_share_nsw,arima_110,2030,27.302296504443195,percent,ok
+bev_fcev_share_nsw,linear_trend,2026,1.41406855477112,percent,ok
+bev_fcev_share_nsw,linear_trend,2027,1.7014260155547163,percent,ok
+bev_fcev_share_nsw,linear_trend,2028,1.9887834763383125,percent,ok
+bev_fcev_share_nsw,linear_trend,2029,2.276140937121909,percent,ok
+bev_fcev_share_nsw,linear_trend,2030,2.563498397905505,percent,ok
+bev_fcev_share_nsw,constrained_logistic,2026,1.5203918506362741,percent,ok
+bev_fcev_share_nsw,constrained_logistic,2027,1.671764694181701,percent,ok
+bev_fcev_share_nsw,constrained_logistic,2028,1.7374107031106027,percent,ok
+bev_fcev_share_nsw,constrained_logistic,2029,1.7636933840444662,percent,ok
+bev_fcev_share_nsw,constrained_logistic,2030,1.773877048556122,percent,ok
+hybrid_share_nsw,linear_trend,2026,4.023501412101041,percent,ok
+hybrid_share_nsw,linear_trend,2027,4.621072805246968,percent,ok
+hybrid_share_nsw,linear_trend,2028,5.218644198392894,percent,ok
+hybrid_share_nsw,linear_trend,2029,5.816215591538594,percent,ok
+hybrid_share_nsw,linear_trend,2030,6.413786984684521,percent,ok
+hybrid_share_nsw,constrained_logistic,2026,4.7809735303828935,percent,ok
+hybrid_share_nsw,constrained_logistic,2027,6.286875145143752,percent,ok
+hybrid_share_nsw,constrained_logistic,2028,8.226124901462695,percent,ok
+hybrid_share_nsw,constrained_logistic,2029,10.69528653855831,percent,ok
+hybrid_share_nsw,constrained_logistic,2030,13.794195194775801,percent,ok
+renewable_share_nsw,linear_trend,2026,43.23382987432433,percent,ok
+renewable_share_nsw,linear_trend,2027,46.51294126923676,percent,ok
+renewable_share_nsw,linear_trend,2028,49.792052664149196,percent,ok
+renewable_share_nsw,linear_trend,2029,53.07116405906254,percent,ok
+renewable_share_nsw,linear_trend,2030,56.35027545397497,percent,ok
+renewable_share_nsw,holt_linear,2026,44.51519957904578,percent,ok
+renewable_share_nsw,holt_linear,2027,48.32439923282064,percent,ok
+renewable_share_nsw,holt_linear,2028,52.13359888659549,percent,ok
+renewable_share_nsw,holt_linear,2029,55.94279854037035,percent,ok
+renewable_share_nsw,holt_linear,2030,59.75199819414521,percent,ok
+renewable_share_nsw,arima_drift,2026,43.8096072405139,percent,ok
+renewable_share_nsw,arima_drift,2027,46.9044872543604,percent,ok
+renewable_share_nsw,arima_drift,2028,49.999367268206896,percent,ok
+renewable_share_nsw,arima_drift,2029,53.09424728205339,percent,ok
+renewable_share_nsw,arima_drift,2030,56.18912729589989,percent,ok
+renewable_share_nsw,arima_110,2026,43.50577688493722,percent,ok
+renewable_share_nsw,arima_110,2027,46.543095886284135,percent,ok
+renewable_share_nsw,arima_110,2028,49.53828140977634,percent,ok
+renewable_share_nsw,arima_110,2029,52.540675422697035,percent,ok
+renewable_share_nsw,arima_110,2030,55.541836156940384,percent,ok
+renewable_share_nsw,constrained_logistic,2026,44.68350522271021,percent,ok
+renewable_share_nsw,constrained_logistic,2027,47.79334718822996,percent,ok
+renewable_share_nsw,constrained_logistic,2028,50.55247839805296,percent,ok
+renewable_share_nsw,constrained_logistic,2029,52.9496944710136,percent,ok
+renewable_share_nsw,constrained_logistic,2030,54.99484621317236,percent,ok
+road_energy_use_national,linear_trend,2026,1328.2092125150266,PJ,ok
+road_energy_use_national,linear_trend,2027,1343.3481792641905,PJ,ok
+road_energy_use_national,linear_trend,2028,1358.4871460133509,PJ,ok
+road_energy_use_national,linear_trend,2029,1373.6261127625148,PJ,ok
+road_energy_use_national,linear_trend,2030,1388.7650795116788,PJ,ok
+road_energy_use_national,holt_linear,2026,1267.0832228735728,PJ,ok
+road_energy_use_national,holt_linear,2027,1279.6366710108437,PJ,ok
+road_energy_use_national,holt_linear,2028,1292.1901191481147,PJ,ok
+road_energy_use_national,holt_linear,2029,1304.7435672853856,PJ,ok
+road_energy_use_national,holt_linear,2030,1317.2970154226564,PJ,ok
+road_energy_use_national,arima_drift,2026,1272.294934059085,PJ,ok
+road_energy_use_national,arima_drift,2027,1287.4601832724447,PJ,ok
+road_energy_use_national,arima_drift,2028,1302.6254324858041,PJ,ok
+road_energy_use_national,arima_drift,2029,1317.7906816991638,PJ,ok
+road_energy_use_national,arima_drift,2030,1332.9559309125234,PJ,ok
+road_energy_use_national,arima_110,2026,1256.7616613453913,PJ,ok
+road_energy_use_national,arima_110,2027,1271.7697759361565,PJ,ok
+road_energy_use_national,arima_110,2028,1286.7814701514837,PJ,ok
+road_energy_use_national,arima_110,2029,1301.793225127303,PJ,ok
+road_energy_use_national,arima_110,2030,1316.80498113447,PJ,ok
+road_direct_emissions_national,linear_trend,2026,88.41381827023542,Mt CO2-e,ok
+road_direct_emissions_national,linear_trend,2027,89.26032717407043,Mt CO2-e,ok
+road_direct_emissions_national,linear_trend,2028,90.10683607790565,Mt CO2-e,ok
+road_direct_emissions_national,linear_trend,2029,90.95334498174066,Mt CO2-e,ok
+road_direct_emissions_national,linear_trend,2030,91.79985388557566,Mt CO2-e,ok
+road_direct_emissions_national,holt_linear,2026,87.12996443933623,Mt CO2-e,ok
+road_direct_emissions_national,holt_linear,2027,87.98226704400734,Mt CO2-e,ok
+road_direct_emissions_national,holt_linear,2028,88.83456964867845,Mt CO2-e,ok
+road_direct_emissions_national,holt_linear,2029,89.68687225334955,Mt CO2-e,ok
+road_direct_emissions_national,holt_linear,2030,90.53917485802066,Mt CO2-e,ok
+road_direct_emissions_national,arima_drift,2026,87.13235769172269,Mt CO2-e,ok
+road_direct_emissions_national,arima_drift,2027,87.98631298758403,Mt CO2-e,ok
+road_direct_emissions_national,arima_drift,2028,88.84026828344537,Mt CO2-e,ok
+road_direct_emissions_national,arima_drift,2029,89.69422357930671,Mt CO2-e,ok
+road_direct_emissions_national,arima_drift,2030,90.54817887516805,Mt CO2-e,ok
+road_direct_emissions_national,arima_110,2026,86.31569453434743,Mt CO2-e,ok
+road_direct_emissions_national,arima_110,2027,87.22592813086061,Mt CO2-e,ok
+road_direct_emissions_national,arima_110,2028,88.1366584753196,Mt CO2-e,ok
+road_direct_emissions_national,arima_110,2029,89.04740181653484,Mt CO2-e,ok
+road_direct_emissions_national,arima_110,2030,89.95814549779311,Mt CO2-e,ok
+sydney_passenger_activity,linear_trend,2026,66.64001252042772,billion passenger-km,ok
+sydney_passenger_activity,linear_trend,2027,67.29260800452698,billion passenger-km,ok
+sydney_passenger_activity,linear_trend,2028,67.94520348862625,billion passenger-km,ok
+sydney_passenger_activity,linear_trend,2029,68.59779897272551,billion passenger-km,ok
+sydney_passenger_activity,linear_trend,2030,69.25039445682478,billion passenger-km,ok
+sydney_passenger_activity,holt_linear,2026,64.1840935052433,billion passenger-km,ok
+sydney_passenger_activity,holt_linear,2027,64.96865236395888,billion passenger-km,ok
+sydney_passenger_activity,holt_linear,2028,65.75321122267447,billion passenger-km,ok
+sydney_passenger_activity,holt_linear,2029,66.53777008139004,billion passenger-km,ok
+sydney_passenger_activity,holt_linear,2030,67.32232894010562,billion passenger-km,ok
+sydney_passenger_activity,arima_drift,2026,63.93415413265118,billion passenger-km,ok
+sydney_passenger_activity,arima_drift,2027,64.5849274752264,billion passenger-km,ok
+sydney_passenger_activity,arima_drift,2028,65.2357008178016,billion passenger-km,ok
+sydney_passenger_activity,arima_drift,2029,65.8864741603768,billion passenger-km,ok
+sydney_passenger_activity,arima_drift,2030,66.53724750295201,billion passenger-km,ok
+sydney_passenger_activity,arima_110,2026,63.25659168256828,billion passenger-km,ok
+sydney_passenger_activity,arima_110,2027,63.90559578960972,billion passenger-km,ok
+sydney_passenger_activity,arima_110,2028,64.5529968862111,billion passenger-km,ok
+sydney_passenger_activity,arima_110,2029,65.20050068687402,billion passenger-km,ok
+sydney_passenger_activity,arima_110,2030,65.84799790734009,billion passenger-km,ok

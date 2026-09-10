@@ -1,0 +1,46 @@
+series_id,label,year,p10,p50,p90,unit,selected_method,uncertainty_method
+fleet_total_nsw,NSW total registered vehicles,2026,6491663.574871794,6522967.533333333,6556594.391666667,vehicles,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+fleet_total_nsw,NSW total registered vehicles,2027,6593790.584054395,6638061.066666666,6685616.625781666,vehicles,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+fleet_total_nsw,NSW total registered vehicles,2028,6698934.553466589,6753154.6,6811398.027132254,vehicles,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+fleet_total_nsw,NSW total registered vehicles,2029,6805640.216410257,6868248.133333334,6935501.850000001,vehicles,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+fleet_total_nsw,NSW total registered vehicles,2030,6913343.887581837,6983341.666666667,7058533.607769756,vehicles,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+petrol_share_nsw,NSW petrol share,2026,65.33831852565629,65.49554666360012,65.79803105012336,percent,holt_linear,rolling one-step residual quantiles with square-root horizon scaling
+petrol_share_nsw,NSW petrol share,2027,63.49441765463865,63.716771819705485,64.14454934153275,percent,holt_linear,rolling one-step residual quantiles with square-root horizon scaling
+petrol_share_nsw,NSW petrol share,2028,61.66566985251268,61.93799697581085,62.461915301765394,percent,holt_linear,rolling one-step residual quantiles with square-root horizon scaling
+petrol_share_nsw,NSW petrol share,2029,59.844765856028545,60.15922213191621,60.76419090496268,percent,holt_linear,rolling one-step residual quantiles with square-root horizon scaling
+petrol_share_nsw,NSW petrol share,2030,58.028874483603445,58.38044728802157,59.05682293841985,percent,holt_linear,rolling one-step residual quantiles with square-root horizon scaling
+diesel_share_nsw,NSW diesel share,2026,27.813800965290575,27.86110034522624,28.09347371702971,percent,holt_linear,rolling one-step residual quantiles with square-root horizon scaling
+diesel_share_nsw,NSW diesel share,2027,28.146916498216008,28.213807922812865,28.542433496751695,percent,holt_linear,rolling one-step residual quantiles with square-root horizon scaling
+diesel_share_nsw,NSW diesel share,2028,28.48459057118441,28.566515500399486,28.968997986689185,percent,holt_linear,rolling one-step residual quantiles with square-root horizon scaling
+diesel_share_nsw,NSW diesel share,2029,28.82462431811478,28.91922307798611,29.38396982159305,percent,holt_linear,rolling one-step residual quantiles with square-root horizon scaling
+diesel_share_nsw,NSW diesel share,2030,29.166166026742996,29.271930655572735,29.791533311086123,percent,holt_linear,rolling one-step residual quantiles with square-root horizon scaling
+bev_fcev_share_nsw,NSW BEV/FCEV share,2026,1.355153377316647,1.5188317868794523,1.7210082489082872,percent,bounded_short_series_scenario,bounded scenario increments
+bev_fcev_share_nsw,NSW BEV/FCEV share,2027,1.4881073168790562,1.8154641360046666,2.2198170600623364,percent,bounded_short_series_scenario,bounded scenario increments
+bev_fcev_share_nsw,NSW BEV/FCEV share,2028,1.6210612564414653,2.112096485129881,2.7186258712163855,percent,bounded_short_series_scenario,bounded scenario increments
+bev_fcev_share_nsw,NSW BEV/FCEV share,2029,1.7540151960038743,2.408728834255095,3.2174346823704347,percent,bounded_short_series_scenario,bounded scenario increments
+bev_fcev_share_nsw,NSW BEV/FCEV share,2030,1.8869691355662834,2.7053611833803095,3.716243493524484,percent,bounded_short_series_scenario,bounded scenario increments
+hybrid_share_nsw,NSW hybrid share,2026,4.022625431648194,4.20326131313888,4.563800824857495,percent,bounded_short_series_scenario,bounded scenario increments
+hybrid_share_nsw,NSW hybrid share,2027,4.347565796455187,4.7088375594365575,5.429916582873788,percent,bounded_short_series_scenario,bounded scenario increments
+hybrid_share_nsw,NSW hybrid share,2028,4.672506161262179,5.214413805734235,6.296032340890081,percent,bounded_short_series_scenario,bounded scenario increments
+hybrid_share_nsw,NSW hybrid share,2029,4.997446526069171,5.719990052031913,7.162148098906374,percent,bounded_short_series_scenario,bounded scenario increments
+hybrid_share_nsw,NSW hybrid share,2030,5.322386890876164,6.225566298329591,8.028263856922667,percent,bounded_short_series_scenario,bounded scenario increments
+renewable_share_nsw,NSW renewable electricity share,2026,42.324665153076396,44.51519957904578,46.25774011347903,percent,holt_linear,rolling one-step residual quantiles with square-root horizon scaling
+renewable_share_nsw,NSW renewable electricity share,2027,45.22651573876958,48.32439923282064,50.78872368960101,percent,holt_linear,rolling one-step residual quantiles with square-root horizon scaling
+renewable_share_nsw,NSW renewable electricity share,2028,48.3394819650878,52.13359888659549,55.15176762648211,percent,holt_linear,rolling one-step residual quantiles with square-root horizon scaling
+renewable_share_nsw,NSW renewable electricity share,2029,51.56172968843159,55.94279854037035,59.427879609236854,percent,holt_linear,rolling one-step residual quantiles with square-root horizon scaling
+renewable_share_nsw,NSW renewable electricity share,2030,54.853814310624195,59.75199819414521,63.64843728268678,percent,holt_linear,rolling one-step residual quantiles with square-root horizon scaling
+road_energy_use_national,National road energy use,2026,1256.2305109079637,1272.294934059085,1297.7306353402407,PJ,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+road_energy_use_national,National road energy use,2027,1264.7416581804284,1287.4601832724447,1323.4316969927256,PJ,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+road_energy_use_national,National road energy use,2028,1274.8010353937761,1302.6254324858041,1346.6813594309103,PJ,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+road_energy_use_national,National road energy use,2029,1285.6618353969209,1317.7906816991638,1368.662084261475,PJ,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+road_energy_use_national,National road energy use,2030,1297.0347887272944,1332.9559309125234,1389.8318880325658,PJ,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+road_direct_emissions_national,National road direct emissions,2026,85.4916603829237,87.13235769172269,88.55052784498788,Mt CO2-e,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+road_direct_emissions_national,National road direct emissions,2027,85.66601660173147,87.98631298758403,89.9919084520844,Mt CO2-e,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+road_direct_emissions_national,National road direct emissions,2028,85.998497184764,88.84026828344537,91.29661104267842,Mt CO2-e,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+road_direct_emissions_national,National road direct emissions,2029,86.41282896170874,89.69422357930671,92.5305638858371,Mt CO2-e,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+road_direct_emissions_national,National road direct emissions,2030,86.87946816219255,90.54817887516805,93.71930374153033,Mt CO2-e,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+sydney_passenger_activity,Sydney passenger activity,2026,63.07437251947209,63.93415413265118,65.10228463423454,billion passenger-km,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+sydney_passenger_activity,Sydney passenger activity,2027,63.36901265718951,64.5849274752264,66.23691347318726,billion passenger-km,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+sydney_passenger_activity,Sydney passenger activity,2028,63.746515380361885,65.2357008178016,67.25896219641488,billion passenger-km,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+sydney_passenger_activity,Sydney passenger activity,2029,64.16691093401863,65.8864741603768,68.22273516354352,billion passenger-km,arima_drift,rolling one-step residual quantiles with square-root horizon scaling
+sydney_passenger_activity,Sydney passenger activity,2030,64.61471737007913,66.53724750295201,69.14926671108331,billion passenger-km,arima_drift,rolling one-step residual quantiles with square-root horizon scaling

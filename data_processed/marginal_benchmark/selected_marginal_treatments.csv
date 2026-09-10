@@ -1,0 +1,10 @@
+series_id,selected_treatment,selected_method,reason
+fleet_total_nsw,"ARIMA(0,1,0) with drift",arima_drift,Out-of-sample accuracy: the lowest rolling one-step RMSE was selected among feasible classical methods with at least five backtest origins where available.
+petrol_share_nsw,ETS/Holt linear,holt_linear,Out-of-sample accuracy: the lowest rolling one-step RMSE was selected among feasible classical methods with at least five backtest origins where available.
+diesel_share_nsw,ETS/Holt linear,holt_linear,Out-of-sample accuracy: the lowest rolling one-step RMSE was selected among feasible classical methods with at least five backtest origins where available.
+bev_fcev_share_nsw,bounded scenario envelope,bounded_short_series_scenario,Clean low-emission detail has only five annual observations; fitted adoption curves remain sensitivity checks.
+hybrid_share_nsw,bounded scenario envelope,bounded_short_series_scenario,Clean low-emission detail has only five annual observations; fitted adoption curves remain sensitivity checks.
+renewable_share_nsw,ETS/Holt linear,holt_linear,Out-of-sample accuracy: the lowest rolling one-step RMSE was selected among feasible classical methods with at least five backtest origins where available.
+road_energy_use_national,"ARIMA(0,1,0) with drift",arima_drift,Out-of-sample accuracy: the lowest rolling one-step RMSE was selected among feasible classical methods with at least five backtest origins where available.
+road_direct_emissions_national,"ARIMA(0,1,0) with drift",arima_drift,Out-of-sample accuracy: the lowest rolling one-step RMSE was selected among feasible classical methods with at least five backtest origins where available.
+sydney_passenger_activity,"ARIMA(0,1,0) with drift",arima_drift,Out-of-sample accuracy: the lowest rolling one-step RMSE was selected among feasible classical methods with at least five backtest origins where available.

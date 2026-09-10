@@ -1,0 +1,29 @@
+left,right,proposed_rho,rationale
+bev_fcev_share_nsw,hybrid_share_nsw,0.35,"Short overlap; both grow in recent data, but substitution risk keeps assumption moderate."
+bev_fcev_share_nsw,petrol_share_nsw,-0.55,"BEV/FCEV uptake should reduce petrol reliance, but fleet growth prevents one-for-one substitution."
+bev_fcev_share_nsw,diesel_share_nsw,-0.2,Passenger electrification has weaker near-term effect on diesel persistence.
+bev_fcev_share_nsw,renewable_share_nsw,0.25,"Policy and infrastructure alignment can co-move, but direct historical evidence is short."
+bev_fcev_share_nsw,road_energy_use_national,0.0,Set to zero in first-pass compact copula because no specific dependence hypothesis is documented.
+bev_fcev_share_nsw,road_direct_emissions_national,0.0,Set to zero in first-pass compact copula because no specific dependence hypothesis is documented.
+bev_fcev_share_nsw,sydney_passenger_activity,0.0,Set to zero in first-pass compact copula because no specific dependence hypothesis is documented.
+hybrid_share_nsw,petrol_share_nsw,-0.35,Hybrid uptake partially reduces petrol-only fleet share.
+hybrid_share_nsw,diesel_share_nsw,-0.15,Hybrid uptake is less directly connected to diesel persistence.
+hybrid_share_nsw,renewable_share_nsw,0.0,Set to zero in first-pass compact copula because no specific dependence hypothesis is documented.
+hybrid_share_nsw,road_energy_use_national,0.0,Set to zero in first-pass compact copula because no specific dependence hypothesis is documented.
+hybrid_share_nsw,road_direct_emissions_national,0.0,Set to zero in first-pass compact copula because no specific dependence hypothesis is documented.
+hybrid_share_nsw,sydney_passenger_activity,0.0,Set to zero in first-pass compact copula because no specific dependence hypothesis is documented.
+petrol_share_nsw,diesel_share_nsw,-0.45,Fuel shares compete within fleet composition.
+petrol_share_nsw,renewable_share_nsw,0.0,Set to zero in first-pass compact copula because no specific dependence hypothesis is documented.
+petrol_share_nsw,road_energy_use_national,0.0,Set to zero in first-pass compact copula because no specific dependence hypothesis is documented.
+petrol_share_nsw,road_direct_emissions_national,0.0,Set to zero in first-pass compact copula because no specific dependence hypothesis is documented.
+petrol_share_nsw,sydney_passenger_activity,0.0,Set to zero in first-pass compact copula because no specific dependence hypothesis is documented.
+diesel_share_nsw,renewable_share_nsw,0.0,Set to zero in first-pass compact copula because no specific dependence hypothesis is documented.
+diesel_share_nsw,road_energy_use_national,0.0,Set to zero in first-pass compact copula because no specific dependence hypothesis is documented.
+diesel_share_nsw,road_direct_emissions_national,0.0,Set to zero in first-pass compact copula because no specific dependence hypothesis is documented.
+diesel_share_nsw,sydney_passenger_activity,0.2,Activity growth can preserve fossil-fuel demand pressure.
+renewable_share_nsw,road_energy_use_national,0.0,Set to zero in first-pass compact copula because no specific dependence hypothesis is documented.
+renewable_share_nsw,road_direct_emissions_national,-0.2,"Cleaner electricity supports electrification benefits, but national road direct emissions are not electricity-only."
+renewable_share_nsw,sydney_passenger_activity,0.0,Set to zero in first-pass compact copula because no specific dependence hypothesis is documented.
+road_energy_use_national,road_direct_emissions_national,0.7,Energy use and direct emissions are strongly connected historically.
+road_energy_use_national,sydney_passenger_activity,0.4,Activity growth is a demand-pressure proxy for road energy use.
+road_direct_emissions_national,sydney_passenger_activity,0.3,"Activity growth can pressure emissions, moderated by technology and fuel mix."

@@ -1,0 +1,191 @@
+source_workbook,sheet,geography,period_type,period,fuel_type,fuel_group,value,unit,is_estimate
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NSW,financial_year,2024-25,black coal,non_renewable,43704.366,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,QLD,financial_year,2024-25,black coal,non_renewable,42077.602,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,WA,financial_year,2024-25,black coal,non_renewable,7526.562,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,AUS,financial_year,2024-25,black coal,non_renewable,93308.53,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,VIC,financial_year,2024-25,brown coal,non_renewable,30417.178,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,AUS,financial_year,2024-25,brown coal,non_renewable,30417.178,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NSW,financial_year,2024-25,natural gas,non_renewable,2398.029,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,VIC,financial_year,2024-25,natural gas,non_renewable,1807.147,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,QLD,financial_year,2024-25,natural gas,non_renewable,8849.734,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,WA,financial_year,2024-25,natural gas,non_renewable,26636.204,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,SA,financial_year,2024-25,natural gas,non_renewable,3538.184,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,TAS,financial_year,2024-25,natural gas,non_renewable,361.895,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NT,financial_year,2024-25,natural gas,non_renewable,4360.312,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,AUS,financial_year,2024-25,natural gas,non_renewable,47951.503,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NSW,financial_year,2024-25,oil products,non_renewable,576.636,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,VIC,financial_year,2024-25,oil products,non_renewable,267.656,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,QLD,financial_year,2024-25,oil products,non_renewable,1177.99,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,WA,financial_year,2024-25,oil products,non_renewable,1978.661,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,SA,financial_year,2024-25,oil products,non_renewable,262.258,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,TAS,financial_year,2024-25,oil products,non_renewable,14.959,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NT,financial_year,2024-25,oil products,non_renewable,518.836,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,AUS,financial_year,2024-25,oil products,non_renewable,4796.996,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NSW,financial_year,2024-25,total non-renewable,subtotal_non_renewable,46679.031,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,VIC,financial_year,2024-25,total non-renewable,subtotal_non_renewable,32491.981,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,QLD,financial_year,2024-25,total non-renewable,subtotal_non_renewable,52105.326,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,WA,financial_year,2024-25,total non-renewable,subtotal_non_renewable,36141.426,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,SA,financial_year,2024-25,total non-renewable,subtotal_non_renewable,3800.442,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,TAS,financial_year,2024-25,total non-renewable,subtotal_non_renewable,376.854,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NT,financial_year,2024-25,total non-renewable,subtotal_non_renewable,4879.148,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,AUS,financial_year,2024-25,total non-renewable,subtotal_non_renewable,176474.208,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NSW,financial_year,2024-25,"bagasse, wood",renewable,621.757,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,VIC,financial_year,2024-25,"bagasse, wood",renewable,121.009,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,QLD,financial_year,2024-25,"bagasse, wood",renewable,1098.321,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,AUS,financial_year,2024-25,"bagasse, wood",renewable,1841.088,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NSW,financial_year,2024-25,biogas,renewable,462.762,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,VIC,financial_year,2024-25,biogas,renewable,428.728,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,QLD,financial_year,2024-25,biogas,renewable,266.337,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,WA,financial_year,2024-25,biogas,renewable,98.788,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,SA,financial_year,2024-25,biogas,renewable,86.906,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,TAS,financial_year,2024-25,biogas,renewable,37.833,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NT,financial_year,2024-25,biogas,renewable,8.198,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,AUS,financial_year,2024-25,biogas,renewable,1389.552,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NSW,financial_year,2024-25,wind,renewable,7419.461,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,VIC,financial_year,2024-25,wind,renewable,12443.498,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,QLD,financial_year,2024-25,wind,renewable,3423.978,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,WA,financial_year,2024-25,wind,renewable,3956.519,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,SA,financial_year,2024-25,wind,renewable,6434.471,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,TAS,financial_year,2024-25,wind,renewable,1876.276,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,AUS,financial_year,2024-25,wind,renewable,35554.203,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NSW,financial_year,2024-25,hydro,renewable,3077.198,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,VIC,financial_year,2024-25,hydro,renewable,2904.765,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,QLD,financial_year,2024-25,hydro,renewable,1533.882,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,WA,financial_year,2024-25,hydro,renewable,72.531,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,SA,financial_year,2024-25,hydro,renewable,4.639,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,TAS,financial_year,2024-25,hydro,renewable,6484.5,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,AUS,financial_year,2024-25,hydro,renewable,14077.516,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NSW,financial_year,2024-25,large-scale solar pv,renewable,8243.058,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,VIC,financial_year,2024-25,large-scale solar pv,renewable,2514.354,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,QLD,financial_year,2024-25,large-scale solar pv,renewable,6695.987,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,WA,financial_year,2024-25,large-scale solar pv,renewable,991.732,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,SA,financial_year,2024-25,large-scale solar pv,renewable,1259.776,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,TAS,financial_year,2024-25,large-scale solar pv,renewable,17.276,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NT,financial_year,2024-25,large-scale solar pv,renewable,115.177,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,AUS,financial_year,2024-25,large-scale solar pv,renewable,19837.36,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NSW,financial_year,2024-25,small-scale solar pv,renewable,10166.727,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,VIC,financial_year,2024-25,small-scale solar pv,renewable,6111.188,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,QLD,financial_year,2024-25,small-scale solar pv,renewable,9024.308,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,WA,financial_year,2024-25,small-scale solar pv,renewable,3760.464,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,SA,financial_year,2024-25,small-scale solar pv,renewable,3460.149,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,TAS,financial_year,2024-25,small-scale solar pv,renewable,400.995,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NT,financial_year,2024-25,small-scale solar pv,renewable,300.294,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,AUS,financial_year,2024-25,small-scale solar pv,renewable,33224.127,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NSW,financial_year,2024-25,total renewable,subtotal_renewable,29990.965,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,VIC,financial_year,2024-25,total renewable,subtotal_renewable,24523.543,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,QLD,financial_year,2024-25,total renewable,subtotal_renewable,22042.814,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,WA,financial_year,2024-25,total renewable,subtotal_renewable,8880.034,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,SA,financial_year,2024-25,total renewable,subtotal_renewable,11245.941,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,TAS,financial_year,2024-25,total renewable,subtotal_renewable,8816.881,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NT,financial_year,2024-25,total renewable,subtotal_renewable,423.668,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,AUS,financial_year,2024-25,total renewable,subtotal_renewable,105923.846,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NSW,financial_year,2024-25,total,total,76669.996,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,VIC,financial_year,2024-25,total,total,57015.524,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,QLD,financial_year,2024-25,total,total,74148.14,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,WA,financial_year,2024-25,total,total,45021.46,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,SA,financial_year,2024-25,total,total,15046.383,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,TAS,financial_year,2024-25,total,total,9193.734,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NT,financial_year,2024-25,total,total,5302.816,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,AUS,financial_year,2024-25,total,total,282398.053,GWh,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NSW,financial_year,2024-25,per cent renewable generation,metric_percent,39.117,percent,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,VIC,financial_year,2024-25,per cent renewable generation,metric_percent,43.012,percent,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,QLD,financial_year,2024-25,per cent renewable generation,metric_percent,29.728,percent,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,WA,financial_year,2024-25,per cent renewable generation,metric_percent,19.724,percent,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,SA,financial_year,2024-25,per cent renewable generation,metric_percent,74.742,percent,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,TAS,financial_year,2024-25,per cent renewable generation,metric_percent,95.901,percent,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,NT,financial_year,2024-25,per cent renewable generation,metric_percent,7.989,percent,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2024-25,AUS,financial_year,2024-25,per cent renewable generation,metric_percent,37.509,percent,false
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NSW,calendar_year,2025,black coal,non_renewable,42557.421,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,QLD,calendar_year,2025,black coal,non_renewable,42738.05,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,WA,calendar_year,2025,black coal,non_renewable,7437.248,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,AUS,calendar_year,2025,black coal,non_renewable,92732.719,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,VIC,calendar_year,2025,brown coal,non_renewable,29623.274,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,AUS,calendar_year,2025,brown coal,non_renewable,29623.274,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NSW,calendar_year,2025,natural gas,non_renewable,2540.717,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,VIC,calendar_year,2025,natural gas,non_renewable,1746.818,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,QLD,calendar_year,2025,natural gas,non_renewable,8080.456,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,WA,calendar_year,2025,natural gas,non_renewable,26185.694,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,SA,calendar_year,2025,natural gas,non_renewable,3314.967,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,TAS,calendar_year,2025,natural gas,non_renewable,215.961,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NT,calendar_year,2025,natural gas,non_renewable,4252.034,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,AUS,calendar_year,2025,natural gas,non_renewable,46336.647,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NSW,calendar_year,2025,oil products,non_renewable,576.426,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,VIC,calendar_year,2025,oil products,non_renewable,267.02,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,QLD,calendar_year,2025,oil products,non_renewable,1160.692,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,WA,calendar_year,2025,oil products,non_renewable,1984.996,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,SA,calendar_year,2025,oil products,non_renewable,261.692,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,TAS,calendar_year,2025,oil products,non_renewable,14.959,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NT,calendar_year,2025,oil products,non_renewable,518.836,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,AUS,calendar_year,2025,oil products,non_renewable,4784.621,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NSW,calendar_year,2025,total non-renewable,subtotal_non_renewable,45674.564,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,VIC,calendar_year,2025,total non-renewable,subtotal_non_renewable,31637.112,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,QLD,calendar_year,2025,total non-renewable,subtotal_non_renewable,51979.198,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,WA,calendar_year,2025,total non-renewable,subtotal_non_renewable,35607.938,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,SA,calendar_year,2025,total non-renewable,subtotal_non_renewable,3576.659,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,TAS,calendar_year,2025,total non-renewable,subtotal_non_renewable,230.921,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NT,calendar_year,2025,total non-renewable,subtotal_non_renewable,4770.87,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,AUS,calendar_year,2025,total non-renewable,subtotal_non_renewable,173477.261,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NSW,calendar_year,2025,biomass,renewable,1038.141,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,VIC,calendar_year,2025,biomass,renewable,623.585,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,QLD,calendar_year,2025,biomass,renewable,1340.06,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,WA,calendar_year,2025,biomass,renewable,221.241,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,SA,calendar_year,2025,biomass,renewable,82.998,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,TAS,calendar_year,2025,biomass,renewable,34.715,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NT,calendar_year,2025,biomass,renewable,7.133,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,AUS,calendar_year,2025,biomass,renewable,3347.873,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NSW,calendar_year,2025,wind,renewable,7949.39,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,VIC,calendar_year,2025,wind,renewable,14595.187,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,QLD,calendar_year,2025,wind,renewable,4331.95,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,WA,calendar_year,2025,wind,renewable,4306.858,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,SA,calendar_year,2025,wind,renewable,7122.708,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,TAS,calendar_year,2025,wind,renewable,1940.883,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NT,calendar_year,2025,wind,renewable,0.0,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,AUS,calendar_year,2025,wind,renewable,40246.976,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NSW,calendar_year,2025,hydro,renewable,2681.544,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,VIC,calendar_year,2025,hydro,renewable,2437.0,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,QLD,calendar_year,2025,hydro,renewable,1525.26,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,WA,calendar_year,2025,hydro,renewable,72.591,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,SA,calendar_year,2025,hydro,renewable,4.644,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,TAS,calendar_year,2025,hydro,renewable,6762.927,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NT,calendar_year,2025,hydro,renewable,0.03,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,AUS,calendar_year,2025,hydro,renewable,13483.996,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NSW,calendar_year,2025,large-scale solar pv,renewable,9005.375,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,VIC,calendar_year,2025,large-scale solar pv,renewable,2873.103,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,QLD,calendar_year,2025,large-scale solar pv,renewable,6972.816,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,WA,calendar_year,2025,large-scale solar pv,renewable,1187.637,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,SA,calendar_year,2025,large-scale solar pv,renewable,1176.502,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,TAS,calendar_year,2025,large-scale solar pv,renewable,16.494,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NT,calendar_year,2025,large-scale solar pv,renewable,134.339,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,AUS,calendar_year,2025,large-scale solar pv,renewable,21366.266,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NSW,calendar_year,2025,small-scale solar pv,renewable,10692.993,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,VIC,calendar_year,2025,small-scale solar pv,renewable,6424.397,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,QLD,calendar_year,2025,small-scale solar pv,renewable,9460.359,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,WA,calendar_year,2025,small-scale solar pv,renewable,3914.479,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,SA,calendar_year,2025,small-scale solar pv,renewable,3612.11,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,TAS,calendar_year,2025,small-scale solar pv,renewable,428.113,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NT,calendar_year,2025,small-scale solar pv,renewable,311.403,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,AUS,calendar_year,2025,small-scale solar pv,renewable,34843.854,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NSW,calendar_year,2025,total renewable,subtotal_renewable,31367.443,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,VIC,calendar_year,2025,total renewable,subtotal_renewable,26953.273,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,QLD,calendar_year,2025,total renewable,subtotal_renewable,23630.445,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,WA,calendar_year,2025,total renewable,subtotal_renewable,9702.806,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,SA,calendar_year,2025,total renewable,subtotal_renewable,11998.963,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,TAS,calendar_year,2025,total renewable,subtotal_renewable,9183.131,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NT,calendar_year,2025,total renewable,subtotal_renewable,452.905,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,AUS,calendar_year,2025,total renewable,subtotal_renewable,113288.966,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NSW,calendar_year,2025,total,total,77042.007,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,VIC,calendar_year,2025,total,total,58590.384,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,QLD,calendar_year,2025,total,total,75609.643,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,WA,calendar_year,2025,total,total,45310.743,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,SA,calendar_year,2025,total,total,15575.622,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,TAS,calendar_year,2025,total,total,9414.052,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NT,calendar_year,2025,total,total,5223.775,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,AUS,calendar_year,2025,total,total,286766.227,GWh,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NSW,calendar_year,2025,per cent renewable generation,metric_percent,40.715,percent,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,VIC,calendar_year,2025,per cent renewable generation,metric_percent,46.003,percent,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,QLD,calendar_year,2025,per cent renewable generation,metric_percent,31.253,percent,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,WA,calendar_year,2025,per cent renewable generation,metric_percent,21.414,percent,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,SA,calendar_year,2025,per cent renewable generation,metric_percent,77.037,percent,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,TAS,calendar_year,2025,per cent renewable generation,metric_percent,97.547,percent,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,NT,calendar_year,2025,per cent renewable generation,metric_percent,8.67,percent,true
+table-o-electricity-generation-by-fuel type-2024-25-and-2025.xlsx,State summary 2025,AUS,calendar_year,2025,per cent renewable generation,metric_percent,39.506,percent,true

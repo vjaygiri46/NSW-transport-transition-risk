@@ -1,0 +1,14 @@
+# Python dependencies for the NSW transport transition-risk analysis.
+# Versions used for the verified release build with Python 3.13.9.
+numpy==2.3.5
+pandas==2.3.3
+scipy==1.16.3
+matplotlib==3.10.6
+SciencePlots==2.2.2
+# Excel readers used when re-deriving processed data from the raw workbooks:
+openpyxl==3.1.5    # .xlsx (BITRE, AES)
+xlrd==2.0.2        # .xls  (older ABS Motor Vehicle Census files)
+#
+# Note: figure generation uses matplotlib's LaTeX text rendering
+# (text.usetex=True), which requires a working LaTeX installation
+# (e.g. TeX Live or MiKTeX) with `latex` and `dvipng` on the system PATH.

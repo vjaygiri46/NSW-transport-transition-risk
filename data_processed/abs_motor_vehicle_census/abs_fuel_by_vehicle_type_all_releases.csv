@@ -1,0 +1,1256 @@
+source_workbook,release_year,table,vehicle_type,year,fuel_type,vehicles
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2011,petrol_leaded,401751.0
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2011,petrol_unleaded,10947713.0
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2011,petrol_total,11349464.0
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2011,diesel,763853.0
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2011,other,360727.0
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2011,total,12474044.0
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2015,petrol_leaded,268626.0
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2015,petrol_unleaded,11640435.0
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2015,petrol_total,11909061.0
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2015,diesel,1322395.0
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2015,other,317993.0
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2015,total,13549449.0
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2016,petrol_leaded,250854.0
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2016,petrol_unleaded,11801876.0
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2016,petrol_total,12052730.0
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2016,diesel,1464429.0
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2016,other,297948.0
+93090do001_2016.xls,2016,Table 4,Passenger vehicles,2016,total,13815107.0
+93090do001_2016.xls,2016,Table 4,Campervans,2011,petrol_leaded,8337.0
+93090do001_2016.xls,2016,Table 4,Campervans,2011,petrol_unleaded,9231.0
+93090do001_2016.xls,2016,Table 4,Campervans,2011,petrol_total,17568.0
+93090do001_2016.xls,2016,Table 4,Campervans,2011,diesel,30629.0
+93090do001_2016.xls,2016,Table 4,Campervans,2011,other,2456.0
+93090do001_2016.xls,2016,Table 4,Campervans,2011,total,50653.0
+93090do001_2016.xls,2016,Table 4,Campervans,2015,petrol_leaded,6014.0
+93090do001_2016.xls,2016,Table 4,Campervans,2015,petrol_unleaded,12586.0
+93090do001_2016.xls,2016,Table 4,Campervans,2015,petrol_total,18600.0
+93090do001_2016.xls,2016,Table 4,Campervans,2015,diesel,37653.0
+93090do001_2016.xls,2016,Table 4,Campervans,2015,other,2035.0
+93090do001_2016.xls,2016,Table 4,Campervans,2015,total,58288.0
+93090do001_2016.xls,2016,Table 4,Campervans,2016,petrol_leaded,5516.0
+93090do001_2016.xls,2016,Table 4,Campervans,2016,petrol_unleaded,14082.0
+93090do001_2016.xls,2016,Table 4,Campervans,2016,petrol_total,19598.0
+93090do001_2016.xls,2016,Table 4,Campervans,2016,diesel,39362.0
+93090do001_2016.xls,2016,Table 4,Campervans,2016,other,1940.0
+93090do001_2016.xls,2016,Table 4,Campervans,2016,total,60900.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2011,petrol_leaded,127808.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2011,petrol_unleaded,1219187.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2011,petrol_total,1346995.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2011,diesel,1042159.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2011,other,141476.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2011,total,2530630.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2015,petrol_leaded,81926.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2015,petrol_unleaded,1139868.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2015,petrol_total,1221794.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2015,diesel,1561423.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2015,other,123789.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2015,total,2907006.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2016,petrol_leaded,75293.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2016,petrol_unleaded,1096342.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2016,petrol_total,1171635.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2016,diesel,1698174.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2016,other,115783.0
+93090do001_2016.xls,2016,Table 4,Light commercial vehicles,2016,total,2985592.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2011,petrol_leaded,4828.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2011,petrol_unleaded,4884.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2011,petrol_total,9712.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2011,diesel,107913.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2011,other,1914.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2011,total,119539.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2015,petrol_leaded,3342.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2015,petrol_unleaded,4817.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2015,petrol_total,8159.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2015,diesel,130634.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2015,other,1832.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2015,total,140625.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2016,petrol_leaded,3029.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2016,petrol_unleaded,4627.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2016,petrol_total,7656.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2016,diesel,136004.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2016,other,1766.0
+93090do001_2016.xls,2016,Table 4,Light rigid trucks,2016,total,145426.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2011,petrol_leaded,16017.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2011,petrol_unleaded,4256.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2011,petrol_total,20273.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2011,diesel,296373.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2011,other,1577.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2011,total,318223.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2015,petrol_leaded,10651.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2015,petrol_unleaded,3738.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2015,petrol_total,14389.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2015,diesel,315940.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2015,other,1370.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2015,total,331699.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2016,petrol_leaded,9616.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2016,petrol_unleaded,3610.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2016,petrol_total,13226.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2016,diesel,320180.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2016,other,1406.0
+93090do001_2016.xls,2016,Table 4,Heavy rigid trucks,2016,total,334812.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2011,petrol_leaded,438.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2011,petrol_unleaded,1119.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2011,petrol_total,1557.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2011,diesel,84256.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2011,other,152.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2011,total,85965.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2015,petrol_leaded,270.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2015,petrol_unleaded,902.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2015,petrol_total,1172.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2015,diesel,93647.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2015,other,156.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2015,total,94975.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2016,petrol_leaded,231.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2016,petrol_unleaded,838.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2016,petrol_total,1069.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2016,diesel,94942.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2016,other,174.0
+93090do001_2016.xls,2016,Table 4,Articulated trucks,2016,total,96185.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2011,petrol_leaded,1711.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2011,petrol_unleaded,1809.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2011,petrol_total,3520.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2011,diesel,18580.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2011,other,556.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2011,total,22656.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2015,petrol_leaded,1226.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2015,petrol_unleaded,1685.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2015,petrol_total,2911.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2015,diesel,20007.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2015,other,443.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2015,total,23361.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2016,petrol_leaded,1152.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2016,petrol_unleaded,1662.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2016,petrol_total,2814.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2016,diesel,20339.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2016,other,414.0
+93090do001_2016.xls,2016,Table 4,Non-freight carrying vehicles,2016,total,23567.0
+93090do001_2016.xls,2016,Table 4,Buses,2011,petrol_leaded,865.0
+93090do001_2016.xls,2016,Table 4,Buses,2011,petrol_unleaded,16648.0
+93090do001_2016.xls,2016,Table 4,Buses,2011,petrol_total,17513.0
+93090do001_2016.xls,2016,Table 4,Buses,2011,diesel,66513.0
+93090do001_2016.xls,2016,Table 4,Buses,2011,other,3857.0
+93090do001_2016.xls,2016,Table 4,Buses,2011,total,87883.0
+93090do001_2016.xls,2016,Table 4,Buses,2015,petrol_leaded,474.0
+93090do001_2016.xls,2016,Table 4,Buses,2015,petrol_unleaded,17067.0
+93090do001_2016.xls,2016,Table 4,Buses,2015,petrol_total,17541.0
+93090do001_2016.xls,2016,Table 4,Buses,2015,diesel,73528.0
+93090do001_2016.xls,2016,Table 4,Buses,2015,other,4080.0
+93090do001_2016.xls,2016,Table 4,Buses,2015,total,95149.0
+93090do001_2016.xls,2016,Table 4,Buses,2016,petrol_leaded,415.0
+93090do001_2016.xls,2016,Table 4,Buses,2016,petrol_unleaded,17107.0
+93090do001_2016.xls,2016,Table 4,Buses,2016,petrol_total,17522.0
+93090do001_2016.xls,2016,Table 4,Buses,2016,diesel,75014.0
+93090do001_2016.xls,2016,Table 4,Buses,2016,other,4046.0
+93090do001_2016.xls,2016,Table 4,Buses,2016,total,96582.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2011,petrol_leaded,52590.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2011,petrol_unleaded,625352.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2011,petrol_total,677942.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2011,diesel,1.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2011,other,847.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2011,total,678790.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2015,petrol_leaded,45481.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2015,petrol_unleaded,761612.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2015,petrol_total,807093.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2015,diesel,0.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2015,other,122.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2015,total,807215.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2016,petrol_leaded,44661.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2016,petrol_unleaded,784146.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2016,petrol_total,828807.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2016,diesel,0.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2016,other,158.0
+93090do001_2016.xls,2016,Table 4,Motor cycles,2016,total,828965.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2011,petrol_leaded,614345.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2011,petrol_unleaded,12830199.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2011,petrol_total,13444544.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2011,diesel,2410277.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2011,other,513562.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2011,total,16368383.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2015,petrol_leaded,418010.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2015,petrol_unleaded,13582710.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2015,petrol_total,14000720.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2015,diesel,3555227.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2015,other,451820.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2015,total,18007767.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2016,petrol_leaded,390767.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2016,petrol_unleaded,13724290.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2016,petrol_total,14115057.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2016,diesel,3848444.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2016,other,423635.0
+93090do001_2016.xls,2016,Table 4,Total motor vehicles,2016,total,18387136.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2012,petrol_leaded,355103.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2012,petrol_unleaded,11116308.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2012,petrol_total,11471411.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2012,diesel,882823.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2012,other,360001.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2012,total,12714235.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2016,petrol_leaded,250854.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2016,petrol_unleaded,11801876.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2016,petrol_total,12052730.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2016,diesel,1464429.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2016,other,297948.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2016,total,13815107.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2017,petrol_leaded,234428.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2017,petrol_unleaded,11951282.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2017,petrol_total,12185710.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2017,diesel,1613618.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2017,other,279278.0
+93090do001_2017.xls,2017,Table 4,Passenger vehicles,2017,total,14078606.0
+93090do001_2017.xls,2017,Table 4,Campervans,2012,petrol_leaded,7662.0
+93090do001_2017.xls,2017,Table 4,Campervans,2012,petrol_unleaded,9883.0
+93090do001_2017.xls,2017,Table 4,Campervans,2012,petrol_total,17545.0
+93090do001_2017.xls,2017,Table 4,Campervans,2012,diesel,32657.0
+93090do001_2017.xls,2017,Table 4,Campervans,2012,other,2398.0
+93090do001_2017.xls,2017,Table 4,Campervans,2012,total,52600.0
+93090do001_2017.xls,2017,Table 4,Campervans,2016,petrol_leaded,5516.0
+93090do001_2017.xls,2017,Table 4,Campervans,2016,petrol_unleaded,14082.0
+93090do001_2017.xls,2017,Table 4,Campervans,2016,petrol_total,19598.0
+93090do001_2017.xls,2017,Table 4,Campervans,2016,diesel,39362.0
+93090do001_2017.xls,2017,Table 4,Campervans,2016,other,1940.0
+93090do001_2017.xls,2017,Table 4,Campervans,2016,total,60900.0
+93090do001_2017.xls,2017,Table 4,Campervans,2017,petrol_leaded,5130.0
+93090do001_2017.xls,2017,Table 4,Campervans,2017,petrol_unleaded,15242.0
+93090do001_2017.xls,2017,Table 4,Campervans,2017,petrol_total,20372.0
+93090do001_2017.xls,2017,Table 4,Campervans,2017,diesel,41456.0
+93090do001_2017.xls,2017,Table 4,Campervans,2017,other,1822.0
+93090do001_2017.xls,2017,Table 4,Campervans,2017,total,63650.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2012,petrol_leaded,113382.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2012,petrol_unleaded,1214746.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2012,petrol_total,1328128.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2012,diesel,1149899.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2012,other,139772.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2012,total,2617799.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2016,petrol_leaded,75293.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2016,petrol_unleaded,1096342.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2016,petrol_total,1171635.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2016,diesel,1698174.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2016,other,115783.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2016,total,2985592.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2017,petrol_leaded,69901.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2017,petrol_unleaded,1056737.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2017,petrol_total,1126638.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2017,diesel,1845178.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2017,other,107774.0
+93090do001_2017.xls,2017,Table 4,Light commercial vehicles,2017,total,3079590.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2012,petrol_leaded,4392.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2012,petrol_unleaded,4819.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2012,petrol_total,9211.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2012,diesel,113193.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2012,other,1887.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2012,total,124291.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2016,petrol_leaded,3029.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2016,petrol_unleaded,4627.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2016,petrol_total,7656.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2016,diesel,136004.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2016,other,1766.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2016,total,145426.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2017,petrol_leaded,2796.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2017,petrol_unleaded,4492.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2017,petrol_total,7288.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2017,diesel,141349.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2017,other,1734.0
+93090do001_2017.xls,2017,Table 4,Light rigid trucks,2017,total,150371.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2012,petrol_leaded,14540.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2012,petrol_unleaded,4151.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2012,petrol_total,18691.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2012,diesel,301877.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2012,other,1547.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2012,total,322115.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2016,petrol_leaded,9616.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2016,petrol_unleaded,3610.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2016,petrol_total,13226.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2016,diesel,320180.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2016,other,1406.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2016,total,334812.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2017,petrol_leaded,8852.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2017,petrol_unleaded,3511.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2017,petrol_total,12363.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2017,diesel,327487.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2017,other,1328.0
+93090do001_2017.xls,2017,Table 4,Heavy rigid trucks,2017,total,341178.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2012,petrol_leaded,371.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2012,petrol_unleaded,1047.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2012,petrol_total,1418.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2012,diesel,86413.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2012,other,164.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2012,total,87995.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2016,petrol_leaded,231.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2016,petrol_unleaded,838.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2016,petrol_total,1069.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2016,diesel,94942.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2016,other,174.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2016,total,96185.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2017,petrol_leaded,222.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2017,petrol_unleaded,818.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2017,petrol_total,1040.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2017,diesel,96879.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2017,other,189.0
+93090do001_2017.xls,2017,Table 4,Articulated trucks,2017,total,98108.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2012,petrol_leaded,1579.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2012,petrol_unleaded,1754.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2012,petrol_total,3333.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2012,diesel,18878.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2012,other,511.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2012,total,22722.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2016,petrol_leaded,1152.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2016,petrol_unleaded,1662.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2016,petrol_total,2814.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2016,diesel,20339.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2016,other,414.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2016,total,23567.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2017,petrol_leaded,1061.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2017,petrol_unleaded,1641.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2017,petrol_total,2702.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2017,diesel,20381.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2017,other,392.0
+93090do001_2017.xls,2017,Table 4,Non-freight carrying vehicles,2017,total,23475.0
+93090do001_2017.xls,2017,Table 4,Buses,2012,petrol_leaded,745.0
+93090do001_2017.xls,2017,Table 4,Buses,2012,petrol_unleaded,16919.0
+93090do001_2017.xls,2017,Table 4,Buses,2012,petrol_total,17664.0
+93090do001_2017.xls,2017,Table 4,Buses,2012,diesel,68763.0
+93090do001_2017.xls,2017,Table 4,Buses,2012,other,4172.0
+93090do001_2017.xls,2017,Table 4,Buses,2012,total,90599.0
+93090do001_2017.xls,2017,Table 4,Buses,2016,petrol_leaded,415.0
+93090do001_2017.xls,2017,Table 4,Buses,2016,petrol_unleaded,17107.0
+93090do001_2017.xls,2017,Table 4,Buses,2016,petrol_total,17522.0
+93090do001_2017.xls,2017,Table 4,Buses,2016,diesel,75014.0
+93090do001_2017.xls,2017,Table 4,Buses,2016,other,4046.0
+93090do001_2017.xls,2017,Table 4,Buses,2016,total,96582.0
+93090do001_2017.xls,2017,Table 4,Buses,2017,petrol_leaded,366.0
+93090do001_2017.xls,2017,Table 4,Buses,2017,petrol_unleaded,17039.0
+93090do001_2017.xls,2017,Table 4,Buses,2017,petrol_total,17405.0
+93090do001_2017.xls,2017,Table 4,Buses,2017,diesel,75630.0
+93090do001_2017.xls,2017,Table 4,Buses,2017,other,3895.0
+93090do001_2017.xls,2017,Table 4,Buses,2017,total,96930.0
+93090do001_2017.xls,2017,Table 4,Motor cycles,2012,petrol_leaded,49353.0
+93090do001_2017.xls,2017,Table 4,Motor cycles,2012,petrol_unleaded,659741.0
+93090do001_2017.xls,2017,Table 4,Motor cycles,2012,petrol_total,709094.0
+93090do001_2017.xls,2017,Table 4,Motor cycles,2012,other,194.0
+93090do001_2017.xls,2017,Table 4,Motor cycles,2012,total,709288.0
+93090do001_2017.xls,2017,Table 4,Motor cycles,2016,petrol_leaded,44661.0
+93090do001_2017.xls,2017,Table 4,Motor cycles,2016,petrol_unleaded,784146.0
+93090do001_2017.xls,2017,Table 4,Motor cycles,2016,petrol_total,828807.0
+93090do001_2017.xls,2017,Table 4,Motor cycles,2016,diesel,0.0
+93090do001_2017.xls,2017,Table 4,Motor cycles,2016,other,158.0
+93090do001_2017.xls,2017,Table 4,Motor cycles,2016,total,828965.0
+93090do001_2017.xls,2017,Table 4,Motor cycles,2017,petrol_leaded,42768.0
+93090do001_2017.xls,2017,Table 4,Motor cycles,2017,petrol_unleaded,806204.0
+93090do001_2017.xls,2017,Table 4,Motor cycles,2017,petrol_total,848972.0
+93090do001_2017.xls,2017,Table 4,Motor cycles,2017,diesel,17.0
+93090do001_2017.xls,2017,Table 4,Motor cycles,2017,other,307.0
+93090do001_2017.xls,2017,Table 4,Motor cycles,2017,total,849296.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2012,petrol_leaded,547127.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2012,petrol_unleaded,13029368.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2012,petrol_total,13576495.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2012,diesel,2654503.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2012,other,510646.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2012,total,16741644.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2016,petrol_leaded,390767.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2016,petrol_unleaded,13724290.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2016,petrol_total,14115057.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2016,diesel,3848444.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2016,other,423635.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2016,total,18387136.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2017,petrol_leaded,365524.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2017,petrol_unleaded,13856966.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2017,petrol_total,14222490.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2017,diesel,4161995.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2017,other,396719.0
+93090do001_2017.xls,2017,Table 4,Total motor vehicles,2017,total,18781204.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2013,petrol_leaded,320748.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2013,petrol_unleaded,11295277.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2013,petrol_total,11616025.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2013,diesel,1029561.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2013,other,354435.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2013,total,13000021.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2017,petrol_leaded,234428.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2017,petrol_unleaded,11951242.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2017,petrol_total,12185670.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2017,diesel,1613618.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2017,other,279278.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2017,total,14078566.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2018,petrol_leaded,221583.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2018,petrol_unleaded,12092299.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2018,petrol_total,12313882.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2018,diesel,1755293.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2018,other,261257.0
+93090do001_2018.xls,2018,Table 4,Passenger vehicles,2018,total,14330432.0
+93090do001_2018.xls,2018,Table 4,Campervans,2013,petrol_leaded,7106.0
+93090do001_2018.xls,2018,Table 4,Campervans,2013,petrol_unleaded,10529.0
+93090do001_2018.xls,2018,Table 4,Campervans,2013,petrol_total,17635.0
+93090do001_2018.xls,2018,Table 4,Campervans,2013,diesel,34164.0
+93090do001_2018.xls,2018,Table 4,Campervans,2013,other,2302.0
+93090do001_2018.xls,2018,Table 4,Campervans,2013,total,54101.0
+93090do001_2018.xls,2018,Table 4,Campervans,2017,petrol_leaded,5130.0
+93090do001_2018.xls,2018,Table 4,Campervans,2017,petrol_unleaded,15242.0
+93090do001_2018.xls,2018,Table 4,Campervans,2017,petrol_total,20372.0
+93090do001_2018.xls,2018,Table 4,Campervans,2017,diesel,41456.0
+93090do001_2018.xls,2018,Table 4,Campervans,2017,other,1822.0
+93090do001_2018.xls,2018,Table 4,Campervans,2017,total,63650.0
+93090do001_2018.xls,2018,Table 4,Campervans,2018,petrol_leaded,4741.0
+93090do001_2018.xls,2018,Table 4,Campervans,2018,petrol_unleaded,16194.0
+93090do001_2018.xls,2018,Table 4,Campervans,2018,petrol_total,20935.0
+93090do001_2018.xls,2018,Table 4,Campervans,2018,diesel,43987.0
+93090do001_2018.xls,2018,Table 4,Campervans,2018,other,1672.0
+93090do001_2018.xls,2018,Table 4,Campervans,2018,total,66594.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2013,petrol_leaded,100970.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2013,petrol_unleaded,1199520.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2013,petrol_total,1300490.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2013,diesel,1281381.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2013,other,135802.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2013,total,2717673.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2017,petrol_leaded,69901.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2017,petrol_unleaded,1056737.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2017,petrol_total,1126638.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2017,diesel,1845178.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2017,other,107774.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2017,total,3079590.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2018,petrol_leaded,64500.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2018,petrol_unleaded,1014294.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2018,petrol_total,1078794.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2018,diesel,2009843.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2018,other,98494.0
+93090do001_2018.xls,2018,Table 4,Light commercial vehicles,2018,total,3187131.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2013,petrol_leaded,4072.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2013,petrol_unleaded,5044.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2013,petrol_total,9116.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2013,diesel,120044.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2013,other,1987.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2013,total,131147.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2017,petrol_leaded,2796.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2017,petrol_unleaded,4492.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2017,petrol_total,7288.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2017,diesel,141348.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2017,other,1734.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2017,total,150370.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2018,petrol_leaded,2606.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2018,petrol_unleaded,4413.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2018,petrol_total,7019.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2018,diesel,149346.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2018,other,1667.0
+93090do001_2018.xls,2018,Table 4,Light rigid trucks,2018,total,158032.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2013,petrol_leaded,13141.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2013,petrol_unleaded,4031.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2013,petrol_total,17172.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2013,diesel,307340.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2013,other,1486.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2013,total,325998.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2017,petrol_leaded,8852.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2017,petrol_unleaded,3511.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2017,petrol_total,12363.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2017,diesel,327488.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2017,other,1328.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2017,total,341179.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2018,petrol_leaded,7983.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2018,petrol_unleaded,3438.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2018,petrol_total,11421.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2018,diesel,334253.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2018,other,1292.0
+93090do001_2018.xls,2018,Table 4,Heavy rigid trucks,2018,total,346966.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2013,petrol_leaded,332.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2013,petrol_unleaded,1000.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2013,petrol_total,1332.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2013,diesel,89416.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2013,other,156.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2013,total,90904.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2017,petrol_leaded,222.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2017,petrol_unleaded,818.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2017,petrol_total,1040.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2017,diesel,96879.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2017,other,189.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2017,total,98108.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2018,petrol_leaded,196.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2018,petrol_unleaded,797.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2018,petrol_total,993.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2018,diesel,99519.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2018,other,182.0
+93090do001_2018.xls,2018,Table 4,Articulated trucks,2018,total,100694.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2013,petrol_leaded,1432.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2013,petrol_unleaded,1727.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2013,petrol_total,3159.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2013,diesel,19338.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2013,other,489.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2013,total,22986.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2017,petrol_leaded,1061.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2017,petrol_unleaded,1641.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2017,petrol_total,2702.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2017,diesel,20381.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2017,other,392.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2017,total,23475.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2018,petrol_leaded,980.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2018,petrol_unleaded,1573.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2018,petrol_total,2553.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2018,diesel,21243.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2018,other,369.0
+93090do001_2018.xls,2018,Table 4,Non-freight carrying vehicles,2018,total,24165.0
+93090do001_2018.xls,2018,Table 4,Buses,2013,petrol_leaded,651.0
+93090do001_2018.xls,2018,Table 4,Buses,2013,petrol_unleaded,17151.0
+93090do001_2018.xls,2018,Table 4,Buses,2013,petrol_total,17802.0
+93090do001_2018.xls,2018,Table 4,Buses,2013,diesel,71081.0
+93090do001_2018.xls,2018,Table 4,Buses,2013,other,4151.0
+93090do001_2018.xls,2018,Table 4,Buses,2013,total,93034.0
+93090do001_2018.xls,2018,Table 4,Buses,2017,petrol_leaded,366.0
+93090do001_2018.xls,2018,Table 4,Buses,2017,petrol_unleaded,17039.0
+93090do001_2018.xls,2018,Table 4,Buses,2017,petrol_total,17405.0
+93090do001_2018.xls,2018,Table 4,Buses,2017,diesel,75630.0
+93090do001_2018.xls,2018,Table 4,Buses,2017,other,3895.0
+93090do001_2018.xls,2018,Table 4,Buses,2017,total,96930.0
+93090do001_2018.xls,2018,Table 4,Buses,2018,petrol_leaded,321.0
+93090do001_2018.xls,2018,Table 4,Buses,2018,petrol_unleaded,16880.0
+93090do001_2018.xls,2018,Table 4,Buses,2018,petrol_total,17201.0
+93090do001_2018.xls,2018,Table 4,Buses,2018,diesel,77598.0
+93090do001_2018.xls,2018,Table 4,Buses,2018,other,3766.0
+93090do001_2018.xls,2018,Table 4,Buses,2018,total,98565.0
+93090do001_2018.xls,2018,Table 4,Motor cycles,2013,petrol_leaded,47490.0
+93090do001_2018.xls,2018,Table 4,Motor cycles,2013,petrol_unleaded,697028.0
+93090do001_2018.xls,2018,Table 4,Motor cycles,2013,petrol_total,744518.0
+93090do001_2018.xls,2018,Table 4,Motor cycles,2013,other,214.0
+93090do001_2018.xls,2018,Table 4,Motor cycles,2013,total,744732.0
+93090do001_2018.xls,2018,Table 4,Motor cycles,2017,petrol_leaded,42768.0
+93090do001_2018.xls,2018,Table 4,Motor cycles,2017,petrol_unleaded,806173.0
+93090do001_2018.xls,2018,Table 4,Motor cycles,2017,petrol_total,848941.0
+93090do001_2018.xls,2018,Table 4,Motor cycles,2017,diesel,17.0
+93090do001_2018.xls,2018,Table 4,Motor cycles,2017,other,307.0
+93090do001_2018.xls,2018,Table 4,Motor cycles,2017,total,849265.0
+93090do001_2018.xls,2018,Table 4,Motor cycles,2018,petrol_leaded,41234.0
+93090do001_2018.xls,2018,Table 4,Motor cycles,2018,petrol_unleaded,818587.0
+93090do001_2018.xls,2018,Table 4,Motor cycles,2018,petrol_total,859821.0
+93090do001_2018.xls,2018,Table 4,Motor cycles,2018,diesel,58.0
+93090do001_2018.xls,2018,Table 4,Motor cycles,2018,other,821.0
+93090do001_2018.xls,2018,Table 4,Motor cycles,2018,total,860700.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2013,petrol_leaded,495942.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2013,petrol_unleaded,13231307.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2013,petrol_total,13727249.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2013,diesel,2952325.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2013,other,501022.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2013,total,17180596.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2017,petrol_leaded,365524.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2017,petrol_unleaded,13856895.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2017,petrol_total,14222419.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2017,diesel,4161995.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2017,other,396719.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2017,total,18781133.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2018,petrol_leaded,344144.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2018,petrol_unleaded,13968475.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2018,petrol_total,14312619.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2018,diesel,4491140.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2018,other,369520.0
+93090do001_2018.xls,2018,Table 4,Total motor vehicles,2018,total,19173279.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2014,petrol_leaded,292253.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2014,petrol_unleaded,11486415.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2014,petrol_total,11778668.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2014,diesel,1180117.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2014,other,338475.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2014,total,13297260.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2018,petrol_leaded,221583.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2018,petrol_unleaded,12092299.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2018,petrol_total,12313882.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2018,diesel,1755293.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2018,other,261257.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2018,total,14330432.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2019,petrol_leaded,211379.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2019,petrol_unleaded,12186795.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2019,petrol_total,12398174.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2019,diesel,1850759.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2019,other,255215.0
+93090do001_2019.xls,2019,Table 4,Passenger vehicles,2019,total,14504148.0
+93090do001_2019.xls,2019,Table 4,Campervans,2014,petrol_leaded,6563.0
+93090do001_2019.xls,2019,Table 4,Campervans,2014,petrol_unleaded,11223.0
+93090do001_2019.xls,2019,Table 4,Campervans,2014,petrol_total,17786.0
+93090do001_2019.xls,2019,Table 4,Campervans,2014,diesel,35814.0
+93090do001_2019.xls,2019,Table 4,Campervans,2014,other,2157.0
+93090do001_2019.xls,2019,Table 4,Campervans,2014,total,55757.0
+93090do001_2019.xls,2019,Table 4,Campervans,2018,petrol_leaded,4741.0
+93090do001_2019.xls,2019,Table 4,Campervans,2018,petrol_unleaded,16194.0
+93090do001_2019.xls,2019,Table 4,Campervans,2018,petrol_total,20935.0
+93090do001_2019.xls,2019,Table 4,Campervans,2018,diesel,43987.0
+93090do001_2019.xls,2019,Table 4,Campervans,2018,other,1672.0
+93090do001_2019.xls,2019,Table 4,Campervans,2018,total,66594.0
+93090do001_2019.xls,2019,Table 4,Campervans,2019,petrol_leaded,4483.0
+93090do001_2019.xls,2019,Table 4,Campervans,2019,petrol_unleaded,16794.0
+93090do001_2019.xls,2019,Table 4,Campervans,2019,petrol_total,21277.0
+93090do001_2019.xls,2019,Table 4,Campervans,2019,diesel,46860.0
+93090do001_2019.xls,2019,Table 4,Campervans,2019,other,1616.0
+93090do001_2019.xls,2019,Table 4,Campervans,2019,total,69753.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2014,petrol_leaded,90440.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2014,petrol_unleaded,1176338.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2014,petrol_total,1266778.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2014,diesel,1426758.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2014,other,130516.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2014,total,2824052.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2018,petrol_leaded,64500.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2018,petrol_unleaded,1014294.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2018,petrol_total,1078794.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2018,diesel,2009843.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2018,other,98494.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2018,total,3187131.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2019,petrol_leaded,60440.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2019,petrol_unleaded,966356.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2019,petrol_total,1026796.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2019,diesel,2194162.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2019,other,92460.0
+93090do001_2019.xls,2019,Table 4,Light commercial vehicles,2019,total,3313418.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2014,petrol_leaded,3655.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2014,petrol_unleaded,4955.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2014,petrol_total,8610.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2014,diesel,125148.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2014,other,1900.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2014,total,135658.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2018,petrol_leaded,2606.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2018,petrol_unleaded,4413.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2018,petrol_total,7019.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2018,diesel,149346.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2018,other,1667.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2018,total,158032.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2019,petrol_leaded,2466.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2019,petrol_unleaded,4310.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2019,petrol_total,6776.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2019,diesel,158496.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2019,other,1700.0
+93090do001_2019.xls,2019,Table 4,Light rigid trucks,2019,total,166972.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2014,petrol_leaded,11864.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2014,petrol_unleaded,3893.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2014,petrol_total,15757.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2014,diesel,312297.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2014,other,1410.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2014,total,329464.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2018,petrol_leaded,7983.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2018,petrol_unleaded,3438.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2018,petrol_total,11421.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2018,diesel,334253.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2018,other,1292.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2018,total,346966.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2019,petrol_leaded,7218.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2019,petrol_unleaded,3323.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2019,petrol_total,10541.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2019,diesel,341893.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2019,other,1325.0
+93090do001_2019.xls,2019,Table 4,Heavy rigid trucks,2019,total,353759.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2014,petrol_leaded,294.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2014,petrol_unleaded,968.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2014,petrol_total,1262.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2014,diesel,92435.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2014,other,156.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2014,total,93853.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2018,petrol_leaded,196.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2018,petrol_unleaded,797.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2018,petrol_total,993.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2018,diesel,99519.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2018,other,182.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2018,total,100694.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2019,petrol_leaded,183.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2019,petrol_unleaded,742.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2019,petrol_total,925.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2019,diesel,101913.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2019,other,200.0
+93090do001_2019.xls,2019,Table 4,Articulated trucks,2019,total,103038.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2014,petrol_leaded,1316.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2014,petrol_unleaded,1686.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2014,petrol_total,3002.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2014,diesel,19680.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2014,other,462.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2014,total,23144.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2018,petrol_leaded,980.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2018,petrol_unleaded,1573.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2018,petrol_total,2553.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2018,diesel,21243.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2018,other,369.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2018,total,24165.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2019,petrol_leaded,915.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2019,petrol_unleaded,1558.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2019,petrol_total,2473.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2019,diesel,21847.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2019,other,349.0
+93090do001_2019.xls,2019,Table 4,Non-freight carrying vehicles,2019,total,24669.0
+93090do001_2019.xls,2019,Table 4,Buses,2014,petrol_leaded,554.0
+93090do001_2019.xls,2019,Table 4,Buses,2014,petrol_unleaded,17134.0
+93090do001_2019.xls,2019,Table 4,Buses,2014,petrol_total,17688.0
+93090do001_2019.xls,2019,Table 4,Buses,2014,diesel,72292.0
+93090do001_2019.xls,2019,Table 4,Buses,2014,other,4151.0
+93090do001_2019.xls,2019,Table 4,Buses,2014,total,94131.0
+93090do001_2019.xls,2019,Table 4,Buses,2018,petrol_leaded,321.0
+93090do001_2019.xls,2019,Table 4,Buses,2018,petrol_unleaded,16880.0
+93090do001_2019.xls,2019,Table 4,Buses,2018,petrol_total,17201.0
+93090do001_2019.xls,2019,Table 4,Buses,2018,diesel,77598.0
+93090do001_2019.xls,2019,Table 4,Buses,2018,other,3766.0
+93090do001_2019.xls,2019,Table 4,Buses,2018,total,98565.0
+93090do001_2019.xls,2019,Table 4,Buses,2019,petrol_leaded,290.0
+93090do001_2019.xls,2019,Table 4,Buses,2019,petrol_unleaded,16598.0
+93090do001_2019.xls,2019,Table 4,Buses,2019,petrol_total,16888.0
+93090do001_2019.xls,2019,Table 4,Buses,2019,diesel,78731.0
+93090do001_2019.xls,2019,Table 4,Buses,2019,other,3760.0
+93090do001_2019.xls,2019,Table 4,Buses,2019,total,99379.0
+93090do001_2019.xls,2019,Table 4,Motor cycles,2014,petrol_leaded,46391.0
+93090do001_2019.xls,2019,Table 4,Motor cycles,2014,petrol_unleaded,733591.0
+93090do001_2019.xls,2019,Table 4,Motor cycles,2014,petrol_total,779982.0
+93090do001_2019.xls,2019,Table 4,Motor cycles,2014,other,192.0
+93090do001_2019.xls,2019,Table 4,Motor cycles,2014,total,780174.0
+93090do001_2019.xls,2019,Table 4,Motor cycles,2018,petrol_leaded,41234.0
+93090do001_2019.xls,2019,Table 4,Motor cycles,2018,petrol_unleaded,818587.0
+93090do001_2019.xls,2019,Table 4,Motor cycles,2018,petrol_total,859821.0
+93090do001_2019.xls,2019,Table 4,Motor cycles,2018,diesel,58.0
+93090do001_2019.xls,2019,Table 4,Motor cycles,2018,other,821.0
+93090do001_2019.xls,2019,Table 4,Motor cycles,2018,total,860700.0
+93090do001_2019.xls,2019,Table 4,Motor cycles,2019,petrol_leaded,39339.0
+93090do001_2019.xls,2019,Table 4,Motor cycles,2019,petrol_unleaded,830026.0
+93090do001_2019.xls,2019,Table 4,Motor cycles,2019,petrol_total,869365.0
+93090do001_2019.xls,2019,Table 4,Motor cycles,2019,diesel,78.0
+93090do001_2019.xls,2019,Table 4,Motor cycles,2019,other,662.0
+93090do001_2019.xls,2019,Table 4,Motor cycles,2019,total,870105.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2014,petrol_leaded,453330.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2014,petrol_unleaded,13436203.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2014,petrol_total,13889533.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2014,diesel,3264541.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2014,other,479419.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2014,total,17633493.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2018,petrol_leaded,344144.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2018,petrol_unleaded,13968475.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2018,petrol_total,14312619.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2018,diesel,4491140.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2018,other,369520.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2018,total,19173279.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2019,petrol_leaded,326713.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2019,petrol_unleaded,14026502.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2019,petrol_total,14353215.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2019,diesel,4794739.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2019,other,357287.0
+93090do001_2019.xls,2019,Table 4,Total motor vehicles,2019,total,19505241.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2015,petrol_leaded,268626.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2015,petrol_unleaded,11640435.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2015,petrol_total,11909061.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2015,diesel,1322395.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2015,other,317993.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2015,total,13549449.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2019,petrol_leaded,211379.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2019,petrol_unleaded,12186795.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2019,petrol_total,12398174.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2019,diesel,1850759.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2019,other,255215.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2019,total,14504148.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2020,petrol_leaded,203724.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2020,petrol_unleaded,12266226.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2020,petrol_total,12469950.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2020,diesel,1948298.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2020,other,261001.0
+93090do001_2020.xls,2020,Table 4,Passenger vehicles,2020,total,14679249.0
+93090do001_2020.xls,2020,Table 4,Campervans,2015,petrol_leaded,6014.0
+93090do001_2020.xls,2020,Table 4,Campervans,2015,petrol_unleaded,12586.0
+93090do001_2020.xls,2020,Table 4,Campervans,2015,petrol_total,18600.0
+93090do001_2020.xls,2020,Table 4,Campervans,2015,diesel,37653.0
+93090do001_2020.xls,2020,Table 4,Campervans,2015,other,2035.0
+93090do001_2020.xls,2020,Table 4,Campervans,2015,total,58288.0
+93090do001_2020.xls,2020,Table 4,Campervans,2019,petrol_leaded,4483.0
+93090do001_2020.xls,2020,Table 4,Campervans,2019,petrol_unleaded,16794.0
+93090do001_2020.xls,2020,Table 4,Campervans,2019,petrol_total,21277.0
+93090do001_2020.xls,2020,Table 4,Campervans,2019,diesel,46860.0
+93090do001_2020.xls,2020,Table 4,Campervans,2019,other,1616.0
+93090do001_2020.xls,2020,Table 4,Campervans,2019,total,69753.0
+93090do001_2020.xls,2020,Table 4,Campervans,2020,petrol_leaded,4134.0
+93090do001_2020.xls,2020,Table 4,Campervans,2020,petrol_unleaded,16767.0
+93090do001_2020.xls,2020,Table 4,Campervans,2020,petrol_total,20901.0
+93090do001_2020.xls,2020,Table 4,Campervans,2020,diesel,49862.0
+93090do001_2020.xls,2020,Table 4,Campervans,2020,other,1457.0
+93090do001_2020.xls,2020,Table 4,Campervans,2020,total,72220.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2015,petrol_leaded,81926.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2015,petrol_unleaded,1139868.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2015,petrol_total,1221794.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2015,diesel,1561423.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2015,other,123789.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2015,total,2907006.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2019,petrol_leaded,60440.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2019,petrol_unleaded,966356.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2019,petrol_total,1026796.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2019,diesel,2194162.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2019,other,92460.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2019,total,3313418.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2020,petrol_leaded,58094.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2020,petrol_unleaded,924958.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2020,petrol_total,983052.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2020,diesel,2340491.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2020,other,83473.0
+93090do001_2020.xls,2020,Table 4,Light commercial vehicles,2020,total,3407016.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2015,petrol_leaded,3342.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2015,petrol_unleaded,4817.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2015,petrol_total,8159.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2015,diesel,130634.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2015,other,1832.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2015,total,140625.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2019,petrol_leaded,2466.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2019,petrol_unleaded,4310.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2019,petrol_total,6776.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2019,diesel,158496.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2019,other,1700.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2019,total,166972.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2020,petrol_leaded,2327.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2020,petrol_unleaded,4383.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2020,petrol_total,6710.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2020,diesel,168379.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2020,other,1591.0
+93090do001_2020.xls,2020,Table 4,Light rigid trucks,2020,total,176680.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2015,petrol_leaded,10651.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2015,petrol_unleaded,3738.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2015,petrol_total,14389.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2015,diesel,315940.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2015,other,1370.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2015,total,331699.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2019,petrol_leaded,7218.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2019,petrol_unleaded,3323.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2019,petrol_total,10541.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2019,diesel,341893.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2019,other,1325.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2019,total,353759.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2020,petrol_leaded,6684.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2020,petrol_unleaded,3222.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2020,petrol_total,9906.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2020,diesel,347492.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2020,other,1436.0
+93090do001_2020.xls,2020,Table 4,Heavy rigid trucks,2020,total,358834.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2015,petrol_leaded,270.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2015,petrol_unleaded,902.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2015,petrol_total,1172.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2015,diesel,93647.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2015,other,156.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2015,total,94975.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2019,petrol_leaded,183.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2019,petrol_unleaded,742.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2019,petrol_total,925.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2019,diesel,101913.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2019,other,200.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2019,total,103038.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2020,petrol_leaded,183.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2020,petrol_unleaded,703.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2020,petrol_total,886.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2020,diesel,104008.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2020,other,243.0
+93090do001_2020.xls,2020,Table 4,Articulated trucks,2020,total,105137.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2015,petrol_leaded,1226.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2015,petrol_unleaded,1685.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2015,petrol_total,2911.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2015,diesel,20007.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2015,other,443.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2015,total,23361.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2019,petrol_leaded,915.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2019,petrol_unleaded,1558.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2019,petrol_total,2473.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2019,diesel,21847.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2019,other,349.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2019,total,24669.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2020,petrol_leaded,833.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2020,petrol_unleaded,1466.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2020,petrol_total,2299.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2020,diesel,22261.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2020,other,281.0
+93090do001_2020.xls,2020,Table 4,Non-freight carrying vehicles,2020,total,24841.0
+93090do001_2020.xls,2020,Table 4,Buses,2015,petrol_leaded,474.0
+93090do001_2020.xls,2020,Table 4,Buses,2015,petrol_unleaded,17067.0
+93090do001_2020.xls,2020,Table 4,Buses,2015,petrol_total,17541.0
+93090do001_2020.xls,2020,Table 4,Buses,2015,diesel,73528.0
+93090do001_2020.xls,2020,Table 4,Buses,2015,other,4080.0
+93090do001_2020.xls,2020,Table 4,Buses,2015,total,95149.0
+93090do001_2020.xls,2020,Table 4,Buses,2019,petrol_leaded,290.0
+93090do001_2020.xls,2020,Table 4,Buses,2019,petrol_unleaded,16598.0
+93090do001_2020.xls,2020,Table 4,Buses,2019,petrol_total,16888.0
+93090do001_2020.xls,2020,Table 4,Buses,2019,diesel,78731.0
+93090do001_2020.xls,2020,Table 4,Buses,2019,other,3760.0
+93090do001_2020.xls,2020,Table 4,Buses,2019,total,99379.0
+93090do001_2020.xls,2020,Table 4,Buses,2020,petrol_leaded,278.0
+93090do001_2020.xls,2020,Table 4,Buses,2020,petrol_unleaded,16031.0
+93090do001_2020.xls,2020,Table 4,Buses,2020,petrol_total,16309.0
+93090do001_2020.xls,2020,Table 4,Buses,2020,diesel,80822.0
+93090do001_2020.xls,2020,Table 4,Buses,2020,other,3342.0
+93090do001_2020.xls,2020,Table 4,Buses,2020,total,100473.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2015,petrol_leaded,45481.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2015,petrol_unleaded,761612.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2015,petrol_total,807093.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2015,diesel,0.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2015,other,122.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2015,total,807215.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2019,petrol_leaded,39339.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2019,petrol_unleaded,830026.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2019,petrol_total,869365.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2019,diesel,78.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2019,other,662.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2019,total,870105.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2020,petrol_leaded,38577.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2020,petrol_unleaded,840555.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2020,petrol_total,879132.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2020,diesel,67.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2020,other,1682.0
+93090do001_2020.xls,2020,Table 4,Motor cycles,2020,total,880881.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2015,petrol_leaded,418010.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2015,petrol_unleaded,13582710.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2015,petrol_total,14000720.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2015,diesel,3555227.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2015,other,451820.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2015,total,18007767.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2019,petrol_leaded,326713.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2019,petrol_unleaded,14026502.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2019,petrol_total,14353215.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2019,diesel,4794739.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2019,other,357287.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2019,total,19505241.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2020,petrol_leaded,314834.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2020,petrol_unleaded,14074311.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2020,petrol_total,14389145.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2020,diesel,5061680.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2020,other,354506.0
+93090do001_2020.xls,2020,Table 4,Total motor vehicles,2020,total,19805331.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2016,petrol_leaded,250854.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2016,petrol_unleaded,11801876.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2016,petrol_total,12052730.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2016,diesel,1464429.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2016,other,297948.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2016,total,13815107.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2020,petrol_leaded,203724.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2020,petrol_unleaded,12266226.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2020,petrol_total,12469950.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2020,diesel,1948298.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2020,other,261001.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2020,total,14679249.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2021,petrol_leaded,199813.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2021,petrol_unleaded,12324783.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2021,petrol_total,12524596.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2021,diesel,2036876.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2021,other,289203.0
+93090do001_2021.xls,2021,Table 4,Passenger vehicles,2021,total,14850675.0
+93090do001_2021.xls,2021,Table 4,Campervans,2016,petrol_leaded,5516.0
+93090do001_2021.xls,2021,Table 4,Campervans,2016,petrol_unleaded,14082.0
+93090do001_2021.xls,2021,Table 4,Campervans,2016,petrol_total,19598.0
+93090do001_2021.xls,2021,Table 4,Campervans,2016,diesel,39362.0
+93090do001_2021.xls,2021,Table 4,Campervans,2016,other,1940.0
+93090do001_2021.xls,2021,Table 4,Campervans,2016,total,60900.0
+93090do001_2021.xls,2021,Table 4,Campervans,2020,petrol_leaded,4134.0
+93090do001_2021.xls,2021,Table 4,Campervans,2020,petrol_unleaded,16767.0
+93090do001_2021.xls,2021,Table 4,Campervans,2020,petrol_total,20901.0
+93090do001_2021.xls,2021,Table 4,Campervans,2020,diesel,49862.0
+93090do001_2021.xls,2021,Table 4,Campervans,2020,other,1457.0
+93090do001_2021.xls,2021,Table 4,Campervans,2020,total,72220.0
+93090do001_2021.xls,2021,Table 4,Campervans,2021,petrol_leaded,3967.0
+93090do001_2021.xls,2021,Table 4,Campervans,2021,petrol_unleaded,16692.0
+93090do001_2021.xls,2021,Table 4,Campervans,2021,petrol_total,20659.0
+93090do001_2021.xls,2021,Table 4,Campervans,2021,diesel,52305.0
+93090do001_2021.xls,2021,Table 4,Campervans,2021,other,1360.0
+93090do001_2021.xls,2021,Table 4,Campervans,2021,total,74324.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2016,petrol_leaded,75293.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2016,petrol_unleaded,1096342.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2016,petrol_total,1171635.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2016,diesel,1698174.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2016,other,115783.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2016,total,2985592.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2020,petrol_leaded,58094.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2020,petrol_unleaded,924958.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2020,petrol_total,983052.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2020,diesel,2340491.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2020,other,83473.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2020,total,3407016.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2021,petrol_leaded,56721.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2021,petrol_unleaded,896532.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2021,petrol_total,953253.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2021,diesel,2488835.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2021,other,77369.0
+93090do001_2021.xls,2021,Table 4,Light commercial vehicles,2021,total,3519457.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2016,petrol_leaded,3029.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2016,petrol_unleaded,4627.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2016,petrol_total,7656.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2016,diesel,136004.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2016,other,1766.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2016,total,145426.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2020,petrol_leaded,2327.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2020,petrol_unleaded,4383.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2020,petrol_total,6710.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2020,diesel,168379.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2020,other,1591.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2020,total,176680.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2021,petrol_leaded,2307.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2021,petrol_unleaded,4451.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2021,petrol_total,6758.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2021,diesel,179028.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2021,other,1543.0
+93090do001_2021.xls,2021,Table 4,Light rigid trucks,2021,total,187329.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2016,petrol_leaded,9616.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2016,petrol_unleaded,3610.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2016,petrol_total,13226.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2016,diesel,320180.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2016,other,1406.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2016,total,334812.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2020,petrol_leaded,6684.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2020,petrol_unleaded,3222.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2020,petrol_total,9906.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2020,diesel,347492.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2020,other,1436.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2020,total,358834.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2021,petrol_leaded,6181.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2021,petrol_unleaded,3094.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2021,petrol_total,9275.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2021,diesel,354213.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2021,other,1501.0
+93090do001_2021.xls,2021,Table 4,Heavy rigid trucks,2021,total,364989.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2016,petrol_leaded,231.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2016,petrol_unleaded,838.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2016,petrol_total,1069.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2016,diesel,94942.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2016,other,174.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2016,total,96185.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2020,petrol_leaded,183.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2020,petrol_unleaded,703.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2020,petrol_total,886.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2020,diesel,104008.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2020,other,243.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2020,total,105137.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2021,petrol_leaded,165.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2021,petrol_unleaded,655.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2021,petrol_total,820.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2021,diesel,108829.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2021,other,278.0
+93090do001_2021.xls,2021,Table 4,Articulated trucks,2021,total,109927.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2016,petrol_leaded,1152.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2016,petrol_unleaded,1662.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2016,petrol_total,2814.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2016,diesel,20339.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2016,other,414.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2016,total,23567.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2020,petrol_leaded,833.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2020,petrol_unleaded,1466.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2020,petrol_total,2299.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2020,diesel,22261.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2020,other,281.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2020,total,24841.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2021,petrol_leaded,755.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2021,petrol_unleaded,1432.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2021,petrol_total,2187.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2021,diesel,22942.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2021,other,249.0
+93090do001_2021.xls,2021,Table 4,Non-freight carrying vehicles,2021,total,25378.0
+93090do001_2021.xls,2021,Table 4,Buses,2016,petrol_leaded,415.0
+93090do001_2021.xls,2021,Table 4,Buses,2016,petrol_unleaded,17107.0
+93090do001_2021.xls,2021,Table 4,Buses,2016,petrol_total,17522.0
+93090do001_2021.xls,2021,Table 4,Buses,2016,diesel,75014.0
+93090do001_2021.xls,2021,Table 4,Buses,2016,other,4046.0
+93090do001_2021.xls,2021,Table 4,Buses,2016,total,96582.0
+93090do001_2021.xls,2021,Table 4,Buses,2020,petrol_leaded,278.0
+93090do001_2021.xls,2021,Table 4,Buses,2020,petrol_unleaded,16031.0
+93090do001_2021.xls,2021,Table 4,Buses,2020,petrol_total,16309.0
+93090do001_2021.xls,2021,Table 4,Buses,2020,diesel,80822.0
+93090do001_2021.xls,2021,Table 4,Buses,2020,other,3342.0
+93090do001_2021.xls,2021,Table 4,Buses,2020,total,100473.0
+93090do001_2021.xls,2021,Table 4,Buses,2021,petrol_leaded,260.0
+93090do001_2021.xls,2021,Table 4,Buses,2021,petrol_unleaded,15048.0
+93090do001_2021.xls,2021,Table 4,Buses,2021,petrol_total,15308.0
+93090do001_2021.xls,2021,Table 4,Buses,2021,diesel,78775.0
+93090do001_2021.xls,2021,Table 4,Buses,2021,other,2977.0
+93090do001_2021.xls,2021,Table 4,Buses,2021,total,97060.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2016,petrol_leaded,44661.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2016,petrol_unleaded,784146.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2016,petrol_total,828807.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2016,diesel,0.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2016,other,158.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2016,total,828965.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2020,petrol_leaded,38577.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2020,petrol_unleaded,840555.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2020,petrol_total,879132.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2020,diesel,67.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2020,other,1682.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2020,total,880881.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2021,petrol_leaded,38543.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2021,petrol_unleaded,872509.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2021,petrol_total,911052.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2021,diesel,44.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2021,other,2707.0
+93090do001_2021.xls,2021,Table 4,Motor cycles,2021,total,913803.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2016,petrol_leaded,390767.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2016,petrol_unleaded,13724290.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2016,petrol_total,14115057.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2016,diesel,3848444.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2016,other,423635.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2016,total,18387136.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2020,petrol_leaded,314834.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2020,petrol_unleaded,14074311.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2020,petrol_total,14389145.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2020,diesel,5061680.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2020,other,354506.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2020,total,19805331.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2021,petrol_leaded,308712.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2021,petrol_unleaded,14135196.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2021,petrol_total,14443908.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2021,diesel,5321847.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2021,other,377187.0
+93090do001_2021.xls,2021,Table 4,Total motor vehicles,2021,total,20142942.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2010,petrol_leaded,449930.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2010,petrol_unleaded,10786803.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2010,petrol_total,11236733.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2010,diesel,673287.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2010,other,359285.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2010,total,12269305.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2014,petrol_leaded,292253.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2014,petrol_unleaded,11486415.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2014,petrol_total,11778668.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2014,diesel,1180117.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2014,other,338475.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2014,total,13297260.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2015,petrol_leaded,268626.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2015,petrol_unleaded,11640435.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2015,petrol_total,11909061.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2015,diesel,1322395.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2015,other,317993.0
+93090DO001_31201501.xls,2015,Table 4,Passenger vehicles,2015,total,13549449.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2010,petrol_leaded,8875.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2010,petrol_unleaded,8573.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2010,petrol_total,17448.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2010,diesel,28584.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2010,other,2472.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2010,total,48504.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2014,petrol_leaded,6563.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2014,petrol_unleaded,11223.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2014,petrol_total,17786.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2014,diesel,35814.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2014,other,2157.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2014,total,55757.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2015,petrol_leaded,6014.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2015,petrol_unleaded,12586.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2015,petrol_total,18600.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2015,diesel,37653.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2015,other,2035.0
+93090DO001_31201501.xls,2015,Table 4,Campervans,2015,total,58288.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2010,petrol_leaded,142758.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2010,petrol_unleaded,1217677.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2010,petrol_total,1360435.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2010,diesel,958393.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2010,other,141740.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2010,total,2460568.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2014,petrol_leaded,90440.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2014,petrol_unleaded,1176338.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2014,petrol_total,1266778.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2014,diesel,1426758.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2014,other,130516.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2014,total,2824052.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2015,petrol_leaded,81926.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2015,petrol_unleaded,1139868.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2015,petrol_total,1221794.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2015,diesel,1561423.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2015,other,123789.0
+93090DO001_31201501.xls,2015,Table 4,Light commercial vehicles,2015,total,2907006.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2010,petrol_leaded,5294.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2010,petrol_unleaded,4892.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2010,petrol_total,10186.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2010,diesel,103751.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2010,other,1908.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2010,total,115845.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2014,petrol_leaded,3655.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2014,petrol_unleaded,4955.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2014,petrol_total,8610.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2014,diesel,125148.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2014,other,1900.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2014,total,135658.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2015,petrol_leaded,3342.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2015,petrol_unleaded,4817.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2015,petrol_total,8159.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2015,diesel,130634.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2015,other,1832.0
+93090DO001_31201501.xls,2015,Table 4,Light rigid trucks,2015,total,140625.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2010,petrol_leaded,17262.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2010,petrol_unleaded,4333.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2010,petrol_total,21595.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2010,diesel,292259.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2010,other,1579.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2010,total,315433.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2014,petrol_leaded,11864.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2014,petrol_unleaded,3893.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2014,petrol_total,15757.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2014,diesel,312297.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2014,other,1410.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2014,total,329464.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2015,petrol_leaded,10651.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2015,petrol_unleaded,3738.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2015,petrol_total,14389.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2015,diesel,315940.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2015,other,1370.0
+93090DO001_31201501.xls,2015,Table 4,Heavy rigid trucks,2015,total,331699.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2010,petrol_leaded,437.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2010,petrol_unleaded,1160.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2010,petrol_total,1597.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2010,diesel,80714.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2010,other,125.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2010,total,82436.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2014,petrol_leaded,294.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2014,petrol_unleaded,968.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2014,petrol_total,1262.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2014,diesel,92435.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2014,other,156.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2014,total,93853.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2015,petrol_leaded,270.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2015,petrol_unleaded,902.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2015,petrol_total,1172.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2015,diesel,93647.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2015,other,156.0
+93090DO001_31201501.xls,2015,Table 4,Articulated trucks,2015,total,94975.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2010,petrol_leaded,1854.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2010,petrol_unleaded,1839.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2010,petrol_total,3693.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2010,diesel,18273.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2010,other,567.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2010,total,22533.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2014,petrol_leaded,1316.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2014,petrol_unleaded,1686.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2014,petrol_total,3002.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2014,diesel,19680.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2014,other,462.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2014,total,23144.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2015,petrol_leaded,1226.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2015,petrol_unleaded,1685.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2015,petrol_total,2911.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2015,diesel,20007.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2015,other,443.0
+93090DO001_31201501.xls,2015,Table 4,Non-freight carrying vehicles,2015,total,23361.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2010,petrol_leaded,1004.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2010,petrol_unleaded,16238.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2010,petrol_total,17242.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2010,diesel,65399.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2010,other,3726.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2010,total,86367.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2014,petrol_leaded,554.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2014,petrol_unleaded,17134.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2014,petrol_total,17688.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2014,diesel,72292.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2014,other,4151.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2014,total,94131.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2015,petrol_leaded,474.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2015,petrol_unleaded,17067.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2015,petrol_total,17541.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2015,diesel,73528.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2015,other,4080.0
+93090DO001_31201501.xls,2015,Table 4,Buses,2015,total,95149.0
+93090DO001_31201501.xls,2015,Table 4,Motor cycles,2010,petrol_leaded,55450.0
+93090DO001_31201501.xls,2015,Table 4,Motor cycles,2010,petrol_unleaded,604522.0
+93090DO001_31201501.xls,2015,Table 4,Motor cycles,2010,petrol_total,659972.0
+93090DO001_31201501.xls,2015,Table 4,Motor cycles,2010,diesel,2.0
+93090DO001_31201501.xls,2015,Table 4,Motor cycles,2010,other,133.0
+93090DO001_31201501.xls,2015,Table 4,Motor cycles,2010,total,660107.0
+93090DO001_31201501.xls,2015,Table 4,Motor cycles,2014,petrol_leaded,46391.0
+93090DO001_31201501.xls,2015,Table 4,Motor cycles,2014,petrol_unleaded,733591.0
+93090DO001_31201501.xls,2015,Table 4,Motor cycles,2014,petrol_total,779982.0
+93090DO001_31201501.xls,2015,Table 4,Motor cycles,2014,other,192.0
+93090DO001_31201501.xls,2015,Table 4,Motor cycles,2014,total,780174.0
+93090DO001_31201501.xls,2015,Table 4,Motor cycles,2015,petrol_leaded,45481.0
+93090DO001_31201501.xls,2015,Table 4,Motor cycles,2015,petrol_unleaded,761612.0
+93090DO001_31201501.xls,2015,Table 4,Motor cycles,2015,petrol_total,807093.0
+93090DO001_31201501.xls,2015,Table 4,Motor cycles,2015,other,122.0
+93090DO001_31201501.xls,2015,Table 4,Motor cycles,2015,total,807215.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2010,petrol_leaded,682864.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2010,petrol_unleaded,12646037.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2010,petrol_total,13328901.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2010,diesel,2220662.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2010,other,511535.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2010,total,16061098.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2014,petrol_leaded,453330.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2014,petrol_unleaded,13436203.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2014,petrol_total,13889533.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2014,diesel,3264541.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2014,other,479419.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2014,total,17633493.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2015,petrol_leaded,418010.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2015,petrol_unleaded,13582710.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2015,petrol_total,14000720.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2015,diesel,3555227.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2015,other,451820.0
+93090DO001_31201501.xls,2015,Table 4,Total motor vehicles,2015,total,18007767.0

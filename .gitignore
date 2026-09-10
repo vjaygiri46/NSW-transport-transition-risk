@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# LaTeX build artifacts (keep main.pdf and the figures)
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.spl
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+
+# Intermediate diagnostic output directories
+reports/figures/
+manuscript/figures/
+
+# Original source workbooks remain local; the public release contains processed data
+data_raw/**/*
+!data_raw/README.md
+
+# Obsolete code-generated schematic; manuscript Figure 1 is prepared separately
+figures/fig01_framework_schematic.pdf
+figures/fig01_framework_schematic.png
